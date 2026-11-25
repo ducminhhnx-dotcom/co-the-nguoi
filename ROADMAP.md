@@ -18,14 +18,16 @@
 | 0.14 | Bước 4 — thần kinh: tủy sống (cách điệu, dựng theo lỗ ống sống từng đốt); dây thần kinh ngoại biên chưa có | Xong 25/11/2026 |
 | 0.15 | Bệnh cho bộ phận mới: đái tháo đường, suy giáp, cường giáp, trào ngược dạ dày – thực quản, sỏi mật, đau thần kinh tọa | Xong 25/11/2026 |
 | 0.16 | Chế độ tự kiểm tra: 4 dạng câu tạo tự động từ dữ liệu, bấm trên hình 3D để trả lời | Xong 25/11/2026 |
-| Sau đó | GitHub Pages, dây thần kinh ngoại biên, thêm bệnh | **Làm tiếp theo** (Minh chọn) |
+| — | Đưa lên GitHub: kho mã `ducminhhnx-dotcom/co-the-nguoi` (công khai) và GitHub Pages | Xong 25/11/2026 |
+| Sau đó | Dây thần kinh ngoại biên, thêm bệnh (tuyến yên, thượng thận, tuyến ức…) | **Làm tiếp theo** (Minh chọn) |
 
 ## Việc còn lại (không theo bản)
 
 - Phổi vẫn là khối cách điệu vì BodyParts3D 4.0 không có lưới nhu mô phổi. Muốn có phổi thật cần nguồn khác (ví dụ Z-Anatomy, CC BY-SA 4.0, phải cài Blender để chuyển đổi).
 - Mô hình chưa có một số cơ mà bảng thông tin có nhắc (cơ thẳng bụng, cơ chéo bụng trong, cơ ngang bụng, cơ nhai, cơ mặt) vì bộ dữ liệu không có lưới các cơ này.
 - Tìm nguồn (StatPearls, MSD Manual…) cho các ý đã xóa khi kiểm chứng 20 file bộ phận (danh sách ở CHANGELOG bản 0.2.1), rồi thêm lại nếu cần.
-- Artifact: https://claude.ai/artifact/7rkfd2yiGA15pVtYnZgjyU. GitHub Pages: chưa.
+- Artifact: https://claude.ai/artifact/7rkfd2yiGA15pVtYnZgjyU.
+- GitHub: https://github.com/ducminhhnx-dotcom/co-the-nguoi — trang công khai https://ducminhhnx-dotcom.github.io/co-the-nguoi/ (Pages tự dựng lại sau mỗi lần đẩy lên nhánh `main`).
 - Liên kết một chiều (giao diện tự suy ra chiều ngược): xem dòng "Liên kết một chiều" khi chạy `py tests/kiem-tra.py`.
 
 ## Cách thêm nội dung

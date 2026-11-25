@@ -421,3 +421,18 @@
 - `tests/kiem-tra.py` chụp thêm `tu-kiem-tra.png` và `dien-thoai-tu-kiem-tra.png`; kiểm có chữ "Tự kiểm tra".
 - Sửa chữ "bản 0.10" ghi sẵn trong `index.html` bị bỏ sót từ bản 0.11 (trang vẫn hiện đúng vì `main.js` ghi đè).
 - `data/index.json`: `phien_ban` = "0.16". Kiểm thử ĐẠT.
+
+## 25/11/2026 — Đưa lên GitHub
+
+**Đã làm**
+- Bật git cho thư mục dự án, nhánh `main`.
+  - Tác giả commit dùng email ẩn danh của GitHub (`…@users.noreply.github.com`), không lộ email cá nhân.
+  - Đặt cấu hình riêng cho kho này, không đổi cấu hình chung của máy.
+- Thêm `.gitignore` (tệp tạm Python, cài đặt riêng của Claude Code, file zip dữ liệu gốc), `.nojekyll` (để Pages phục vụ nguyên trạng các file), `README.md` (giới thiệu, cách chạy, nguồn và giấy phép dữ liệu bên ngoài).
+- Trước khi đăng: quét toàn thư mục, không có email, token hay khóa nào.
+- Tạo kho công khai https://github.com/ducminhhnx-dotcom/co-the-nguoi và đẩy mã lên.
+- Bật GitHub Pages từ nhánh `main`, thư mục gốc: https://ducminhhnx-dotcom.github.io/co-the-nguoi/
+- Từ nay mỗi bản: commit và đẩy lên `main` để Pages tự cập nhật; artifact vẫn cập nhật như cũ.
+
+**Còn dở**
+- `AGENTS.md` là bản sao cũ của bản thiết kế (bản 0.3, viết cho Codex), chưa đồng bộ với CLAUDE.md.

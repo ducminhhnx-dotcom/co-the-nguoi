@@ -192,7 +192,8 @@ export default {
 | 0.14 | Bước 4 — thần kinh: tủy sống (cách điệu, dựng theo lỗ ống sống từng đốt); dây thần kinh ngoại biên chưa có | Xong 25/11/2026 |
 | 0.15 | Bệnh cho bộ phận mới: đái tháo đường, suy giáp, cường giáp, trào ngược dạ dày – thực quản, sỏi mật, đau thần kinh tọa | Xong 25/11/2026 |
 | 0.16 | Chế độ tự kiểm tra: 4 dạng câu tạo tự động từ dữ liệu, bấm trên hình 3D để trả lời | Xong 25/11/2026 |
-| Sau đó | GitHub Pages, dây thần kinh ngoại biên, thêm bệnh | **Làm tiếp theo** (Minh chọn) |
+| — | Đưa lên GitHub: kho mã `ducminhhnx-dotcom/co-the-nguoi` (công khai) và GitHub Pages | Xong 25/11/2026 |
+| Sau đó | Dây thần kinh ngoại biên, thêm bệnh (tuyến yên, thượng thận, tuyến ức…) | **Làm tiếp theo** (Minh chọn) |
 
 ---
 
