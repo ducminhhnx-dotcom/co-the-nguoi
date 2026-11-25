@@ -1,0 +1,50 @@
+{
+  "id": "cum",
+  "ten": "Cúm mùa",
+  "ten_khac": "Seasonal influenza",
+  "loai": "virus",
+  "bo_phan": [
+    "khi-quan",
+    "phoi"
+  ],
+  "nguyen_nhan": "Do virus cúm. Virus lây dễ dàng giữa người với người, chủ yếu qua giọt bắn khi người bệnh ho, hắt hơi; tay dính virus cũng làm lây bệnh. Thời gian ủ bệnh khoảng 2 ngày, dao động 1–4 ngày.",
+  "trieu_chung": [
+    "Sốt đột ngột hoặc cảm thấy sốt, ớn lạnh (không phải ai cũng sốt)",
+    "Ho, thường là ho khan, có thể kéo dài từ 2 tuần trở lên",
+    "Đau họng, sổ mũi hoặc nghẹt mũi",
+    "Đau đầu, đau cơ, đau khớp, mệt mỏi nhiều",
+    "Nôn và tiêu chảy ở một số người, hay gặp hơn ở trẻ em",
+    "Phần lớn người bệnh khỏi trong khoảng 1 tuần"
+  ],
+  "khi_nao_di_kham": [
+    "Người lớn: khó thở hoặc hụt hơi; đau hoặc tức ngực, bụng kéo dài; chóng mặt kéo dài, lú lẫn hoặc khó tỉnh hẳn; co giật; không đi tiểu; đau cơ dữ dội; rất yếu hoặc đứng không vững",
+    "Trẻ em: thở nhanh hoặc khó thở; môi hoặc mặt tím tái; sườn rút lõm mỗi lần thở; đau ngực; mất nước (không tiểu trong 8 giờ, khô miệng, khóc không ra nước mắt); lơ mơ, không tương tác khi thức; co giật; trẻ dưới 12 tuần tuổi bị sốt",
+    "Sốt hoặc ho đã đỡ rồi quay lại nặng hơn; bệnh mạn tính nặng lên",
+    "Nhóm nguy cơ cao (phụ nữ có thai, trẻ dưới 5 tuổi, người từ 65 tuổi, người có bệnh mạn tính hoặc suy giảm miễn dịch) nên liên hệ cơ sở y tế sớm khi có triệu chứng",
+    "Danh sách trên chưa đầy đủ: có triệu chứng nặng hoặc đáng lo thì đi khám"
+  ],
+  "phong_ngua": [
+    "Tiêm vắc-xin cúm hằng năm — cách phòng bệnh tốt nhất, khuyến cáo cho mọi người từ 6 tháng tuổi",
+    "Rửa tay thường xuyên bằng xà phòng và nước, hoặc dung dịch sát khuẩn có cồn",
+    "Che miệng, mũi khi ho, hắt hơi; bỏ khăn giấy đúng chỗ",
+    "Tránh tiếp xúc gần người đang ốm; khi ốm thì ở nhà, hạn chế tiếp xúc",
+    "Tránh đưa tay lên mắt, mũi, miệng",
+    "Làm thoáng không khí trong nhà"
+  ],
+  "mo_phong": "virus-ho-hap",
+  "nguon": [
+    {
+      "ten": "CDC — Signs and Symptoms of Flu",
+      "url": "https://www.cdc.gov/flu/signs-symptoms/index.html"
+    },
+    {
+      "ten": "CDC — Preventing Seasonal Flu",
+      "url": "https://www.cdc.gov/flu/prevention/index.html"
+    },
+    {
+      "ten": "WHO — Influenza (seasonal), 28/02/2025",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/influenza-(seasonal)"
+    }
+  ],
+  "da_kiem": true
+}

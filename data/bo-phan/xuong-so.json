@@ -1,0 +1,48 @@
+{
+  "id": "xuong-so",
+  "ten": "Hộp sọ",
+  "ten_khac": "Cranium / Skull",
+  "he": "xuong",
+  "mo_hinh": "xuong-so",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Ở đầu; gồm phần sọ não bao quanh não và các xương mặt.",
+    "so_lieu": [
+      "Số xương: 22 (người lớn)",
+      "Xương sọ não: 8",
+      "Xương mặt: 14",
+      "Xương cử động được: chỉ có xương hàm dưới"
+    ],
+    "mo_ta": "21 xương gắn liền thành một khối; chỉ xương hàm dưới cử động được."
+  },
+  "chuc_nang": [
+    "Bao quanh và bảo vệ não",
+    "Chứa các cấu trúc của tai giữa và tai trong",
+    "Xương mặt tạo hàm trên, hàm dưới, mũi, hốc mắt và đỡ răng"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "nao",
+        "mo_ta": "Phần sọ não bao quanh và bảo vệ não"
+      },
+      {
+        "id": "co-dau-co",
+        "mo_ta": "Cơ nhai bám vào và nâng xương hàm dưới"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 7.2 The Skull",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-2-the-skull"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 7.1 Divisions of the Skeletal System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-1-divisions-of-the-skeletal-system"
+    }
+  ],
+  "da_kiem": true
+}

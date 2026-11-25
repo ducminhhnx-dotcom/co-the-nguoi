@@ -1,0 +1,44 @@
+{
+  "id": "nhoi-mau-co-tim",
+  "ten": "Nhồi máu cơ tim (cơn đau tim)",
+  "ten_khac": "Myocardial infarction / Heart attack",
+  "loai": "tim-mach",
+  "bo_phan": [
+    "tim"
+  ],
+  "nguyen_nhan": "Một phần cơ tim chết vì không nhận đủ máu. Thường gặp nhất: động mạch vành (mạch nuôi tim) đã bị hẹp do mảng xơ vữa (cholesterol và chất béo bám thành mạch); mảng này nứt vỡ, tiểu cầu bám vào tạo cục máu đông bít mạch. Nguyên nhân ít gặp hơn: co thắt động mạch vành, rách thành động mạch vành, cục máu đông từ nơi khác trôi tới. Máu bị cắt hoặc giảm nhiều quá vài phút thì mô tim bắt đầu chết; để càng lâu, tổn thương càng rộng. Yếu tố nguy cơ chính: tăng huyết áp, cholesterol máu cao, hút thuốc; ngoài ra có đái tháo đường, béo phì, ít vận động, ăn uống không lành mạnh, tuổi cao và tiền sử gia đình.",
+  "trieu_chung": [
+    "Đau, tức, ép, nặng hoặc thắt ở giữa ngực hay ngực trái, kéo dài quá vài phút hoặc hết rồi quay lại; nghỉ ngơi không đỡ",
+    "Đau lan ra lưng, hàm, cổ, vai, một hoặc hai cánh tay (hay gặp tay trái); có khi đau vùng bụng trên, dễ nhầm với khó tiêu",
+    "Khó thở, có thể xuất hiện trước hoặc cùng lúc với đau ngực",
+    "Vã mồ hôi lạnh, choáng, muốn ngất hoặc ngất; buồn nôn, nôn; mệt bất thường; hồi hộp, bồn chồn, cảm giác sắp chết",
+    "Phụ nữ hay có triệu chứng không điển hình (mệt bất thường, buồn nôn); người cao tuổi có thể chỉ khó thở hoặc lú lẫn; người đái tháo đường có thể không đau ngực",
+    "Có tới khoảng 1/5 số ca chỉ có triệu chứng nhẹ hoặc không có triệu chứng, chỉ phát hiện về sau qua điện tim"
+  ],
+  "khi_nao_di_kham": [
+    "Có triệu chứng nghi nhồi máu cơ tim ở mình hoặc người bên cạnh: gọi cấp cứu ngay, không chờ xem có đỡ không",
+    "Đi bằng xe cấp cứu có nhân viên y tế; gọi bác sĩ riêng hay người thân trước có thể làm mất thời gian quý",
+    "Nhiều ca tử vong xảy ra trong 3–4 giờ đầu sau khi có triệu chứng: được điều trị càng sớm, cơ tim bị tổn thương càng ít",
+    "Người bệnh ngừng thở hoặc bất tỉnh: người biết hồi sinh tim phổi (CPR) hoặc dùng máy khử rung tự động có thể hỗ trợ trong lúc chờ cấp cứu",
+    "Đau ngực mới xuất hiện, nặng dần hoặc xảy ra cả lúc nghỉ (có thể báo trước cơn đau tim vài ngày đến vài tuần): đi khám ngay"
+  ],
+  "phong_ngua": [
+    "Không hút thuốc",
+    "Kiểm soát huyết áp, đường máu và mỡ máu",
+    "Ăn ít chất béo, nhiều rau quả; vận động đều đặn",
+    "Giữ cân nặng hợp lý, giảm căng thẳng",
+    "Người đã từng bị: hỏi bác sĩ về chương trình phục hồi chức năng tim"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Acute Coronary Syndromes (Unstable Angina and Heart Attack), cập nhật 11/2026",
+      "url": "https://www.msdmanuals.com/home/heart-and-blood-vessel-disorders/coronary-artery-disease/acute-coronary-syndromes-unstable-angina-and-heart-attack-myocardial-infarction"
+    },
+    {
+      "ten": "CDC — About Heart Attack Symptoms, Risk, and Recovery, 24/10/2024",
+      "url": "https://www.cdc.gov/heart-disease/about/heart-attack.html"
+    }
+  ],
+  "da_kiem": true
+}

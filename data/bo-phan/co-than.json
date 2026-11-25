@@ -1,0 +1,57 @@
+{
+  "id": "co-than",
+  "ten": "Cơ thân mình",
+  "ten_khac": "Musculi trunci",
+  "he": "co",
+  "mo_hinh": "co-than",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Lưng, ngực, thành bụng và sàn chậu.",
+    "so_lieu": [
+      "Cơ thành bụng trước bên: 4 đôi (chéo ngoài, chéo trong, ngang bụng, thẳng bụng)",
+      "Cơ hô hấp chính: cơ hoành"
+    ]
+  },
+  "chuc_nang": [
+    "Ba lớp cơ dẹt thành bụng bảo vệ cơ quan trong bụng, nơi không có xương che",
+    "Cơ thẳng bụng gập cột sống",
+    "Cơ hoành ngăn khoang ngực với khoang bụng; co và giãn làm thay đổi thể tích lồng ngực khi thở",
+    "Nhóm cơ dựng sống là cơ duỗi chính của cột sống và giữ đường cong thắt lưng",
+    "Cơ nâng hậu môn là cơ quan trọng nhất của sàn chậu, nâng đỡ tạng trong chậu"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "phoi",
+        "mo_ta": "Cơ hoành và cơ gian sườn làm thay đổi thể tích lồng ngực để thở"
+      },
+      {
+        "id": "long-nguc",
+        "mo_ta": "Cơ gian sườn nâng hoặc kéo các xương sườn khi thở"
+      },
+      {
+        "id": "cot-song",
+        "mo_ta": "Nhóm cơ dựng sống duỗi cột sống"
+      },
+      {
+        "id": "bang-quang",
+        "mo_ta": "Cơ nâng hậu môn nâng đỡ tạng trong chậu và tạo cơ thắt ở niệu đạo"
+      }
+    ],
+    "toan_than": [
+      "Não giữ tư thế bằng cách luân phiên co và giãn các nhóm cơ thân."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.4 Axial Muscles of the Abdominal Wall and Thorax",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.3 Axial Muscles of the Head, Neck, and Back",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back"
+    }
+  ],
+  "da_kiem": true
+}

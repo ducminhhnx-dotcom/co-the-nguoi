@@ -1,0 +1,57 @@
+{
+  "id": "ruot-non",
+  "ten": "Ruột non",
+  "ten_khac": "Intestinum tenue / Small intestine",
+  "he": "tieu-hoa",
+  "mo_hinh": "ruot-non",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Giữa ổ bụng, được ruột già bao quanh ba phía; gồm tá tràng, hỗng tràng, hồi tràng.",
+    "so_lieu": [
+      "Chiều dài: khoảng 3 m ở người sống (dài gần gấp đôi khi đo trên tử thi vì cơ mất trương lực)",
+      "Tá tràng: dài khoảng 25 cm",
+      "Đường kính: khoảng 2,5 cm",
+      "Diện tích bề mặt: khoảng 200 m²"
+    ]
+  },
+  "chuc_nang": [
+    "Tiêu hóa nốt và hấp thụ phần lớn chất dinh dưỡng",
+    "Nếp vòng, nhung mao, vi nhung mao làm diện tích hấp thụ tăng hơn 600 lần",
+    "Hấp thụ khoảng 90% lượng nước ăn uống vào"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "da-day",
+        "mo_ta": "Nhận dưỡng chấp từ dạ dày"
+      },
+      {
+        "id": "tinh-mach-cua",
+        "mo_ta": "Chất dinh dưỡng hấp thụ đi theo tĩnh mạch cửa về gan"
+      },
+      {
+        "id": "ruot-gia",
+        "mo_ta": "Phần còn lại chuyển xuống ruột già"
+      },
+      {
+        "id": "gan",
+        "mo_ta": "Nhận mật do gan tiết ra (đổ vào tá tràng) để tiêu hóa và hấp thụ chất béo"
+      }
+    ],
+    "toan_than": [
+      "Toàn bộ máu từ ống tiêu hóa đi theo tĩnh mạch cửa qua gan trước, rồi mới vào tuần hoàn chung."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.5 The Small and Large Intestines",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.6 Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,58 @@
+{
+  "id": "long-nguc",
+  "ten": "Lồng ngực",
+  "ten_khac": "Cavea thoracis / Thoracic cage",
+  "he": "xuong",
+  "mo_hinh": "long-nguc",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Quanh ngực; gồm 12 đôi xương sườn với sụn sườn và xương ức.",
+    "so_lieu": [
+      "Xương sườn: 12 đôi",
+      "Sườn thật: đôi 1–7 (sụn nối thẳng vào xương ức)",
+      "Sườn giả: đôi 8–12",
+      "Sườn cụt: đôi 11 và 12 (không nối với xương ức)",
+      "Xương ức: 3 phần (cán, thân, mũi ức)"
+    ]
+  },
+  "chuc_nang": [
+    "Bảo vệ tim và phổi"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tim",
+        "mo_ta": "Che chắn tim"
+      },
+      {
+        "id": "phoi",
+        "mo_ta": "Che chắn phổi"
+      },
+      {
+        "id": "cot-song",
+        "mo_ta": "Xương sườn khớp phía sau với đốt sống ngực T1–T12"
+      },
+      {
+        "id": "co-than",
+        "mo_ta": "Cơ gian sườn ngoài nâng lồng ngực khi hít vào; cơ gian sườn trong kéo các sườn lại gần nhau khi thở ra"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 7.4 The Thoracic Cage",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-4-the-thoracic-cage"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 6.1 The Functions of the Skeletal System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/6-1-the-functions-of-the-skeletal-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.4 Axial Muscles of the Abdominal Wall and Thorax",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-4-axial-muscles-of-the-abdominal-wall-and-thorax"
+    }
+  ],
+  "da_kiem": true
+}

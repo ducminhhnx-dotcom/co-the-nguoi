@@ -1,0 +1,45 @@
+{
+  "id": "tinh-mach-phoi",
+  "ten": "Tĩnh mạch phổi",
+  "ten_khac": "Venae pulmonales",
+  "he": "tuan-hoan",
+  "mo_hinh": "tinh-mach-phoi",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Từ hai phổi về tâm nhĩ trái.",
+    "so_lieu": [
+      "Số lượng: 4 tĩnh mạch phổi",
+      "Loại máu: giàu oxy (vì thế tô màu đỏ)"
+    ]
+  },
+  "chuc_nang": [
+    "Đưa máu vừa nhận oxy từ phổi về tim trái"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "phoi",
+        "mo_ta": "Nhận máu đã nhận oxy từ mao mạch phổi"
+      },
+      {
+        "id": "tim",
+        "mo_ta": "Đổ vào tâm nhĩ trái"
+      }
+    ],
+    "toan_than": [
+      "Sau khi sinh, tĩnh mạch phổi là những tĩnh mạch duy nhất chứa máu giàu oxy."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 19.1 Heart Anatomy",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    }
+  ],
+  "da_kiem": true
+}

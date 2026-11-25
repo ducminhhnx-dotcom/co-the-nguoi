@@ -1,0 +1,46 @@
+{
+  "id": "da-day",
+  "ten": "Dạ dày",
+  "ten_khac": "Gaster / Stomach",
+  "he": "tieu-hoa",
+  "mo_hinh": "da-day",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Ngay dưới thực quản, dưới cơ hoành; nối thực quản với tá tràng.",
+    "so_lieu": [
+      "Độ pH dịch vị: khoảng 1,5–3,5",
+      "Kích thước khi rỗng: cỡ nắm tay",
+      "Sức chứa tối đa: tới khoảng 4 lít thức ăn và nước (người lớn)",
+      "Tống xuống tá tràng: khoảng 3 mL dưỡng chấp mỗi lần"
+    ],
+    "mo_ta": "Lớp chất nhầy dày, giàu bicarbonat phủ niêm mạc giúp dạ dày không tự tiêu hóa chính mình."
+  },
+  "chuc_nang": [
+    "Chứa, nhào trộn thức ăn thành dưỡng chấp",
+    "Tiết axit HCl; axit hoạt hóa men pepsin để bắt đầu tiêu hóa đạm",
+    "Axit diệt phần lớn vi khuẩn nuốt vào"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "ruot-non",
+        "mo_ta": "Đẩy dần từng ít dưỡng chấp qua cơ thắt môn vị xuống tá tràng"
+      }
+    ],
+    "toan_than": [
+      "Môi trường axit của dạ dày là một hàng rào miễn dịch, gây chết nhiều mầm bệnh theo thức ăn vào."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.4 The Stomach",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 21.2 Barrier Defenses and the Innate Immune Response",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-2-barrier-defenses-and-the-innate-immune-response"
+    }
+  ],
+  "da_kiem": true
+}

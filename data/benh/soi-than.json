@@ -1,0 +1,40 @@
+{
+  "id": "soi-than",
+  "ten": "Sỏi tiết niệu (sỏi thận)",
+  "ten_khac": "Urolithiasis / Kidney stones",
+  "loai": "tiet-nieu",
+  "bo_phan": [
+    "than",
+    "bang-quang"
+  ],
+  "nguyen_nhan": "Khoáng chất trong nước tiểu kết tinh thành sỏi khi nước tiểu quá đặc các muối tạo sỏi hoặc thiếu chất ức chế tự nhiên (như citrat). Sỏi nằm ở thận, niệu quản hoặc bàng quang; khoảng 85% là sỏi canxi, còn lại là sỏi acid uric, cystin hoặc struvit (sỏi struvit chỉ hình thành khi nước tiểu bị nhiễm khuẩn). Yếu tố nguy cơ: uống ít nước, mất nước; ăn nhiều đạm động vật; ăn quá ít canxi; tiền sử gia đình; bệnh gút, đái tháo đường týp 2, cường cận giáp; phẫu thuật giảm cân. Mỗi năm khoảng 1–2% người lớn ở Mỹ được chẩn đoán sỏi; hay gặp ở người trung niên và cao tuổi. Sau viên sỏi canxi đầu tiên, khả năng bị lại khoảng 11% sau 2 năm và 39% sau 15 năm.",
+  "trieu_chung": [
+    "Sỏi nhỏ có thể không gây triệu chứng",
+    "Cơn đau quặn thận: đau dữ dội từng cơn ở một bên, vùng giữa sườn và hông, lan ra bụng, xuống bẹn và bộ phận sinh dục; mỗi cơn tăng dần rồi giảm trong khoảng 20–60 phút",
+    "Buồn nôn, nôn, bồn chồn, vã mồ hôi",
+    "Nước tiểu có máu hoặc có mảnh sỏi; buồn tiểu liên tục khi sỏi di chuyển xuống niệu quản",
+    "Sỏi bàng quang có thể gây đau bụng dưới",
+    "Nếu có nhiễm khuẩn: sốt, ớn lạnh, tiểu buốt, nước tiểu đục hoặc hôi"
+  ],
+  "khi_nao_di_kham": [
+    "Đau dữ dội từng cơn vùng hông lưng, bụng: đi khám, vì cần phân biệt với các bệnh cấp cứu khác như viêm ruột thừa, viêm túi mật, tắc ruột, chửa ngoài tử cung",
+    "Đau kèm sốt, ớn lạnh, tiểu buốt hoặc nước tiểu đục: đi khám ngay vì có thể nhiễm khuẩn phía trên chỗ tắc",
+    "Đi tiểu ra máu hoặc ra sỏi: đi khám",
+    "Sỏi gây tắc kéo dài có thể làm thận ứ nước và hỏng dần, nên cần được bác sĩ theo dõi"
+  ],
+  "phong_ngua": [
+    "Uống nhiều nước: khoảng 8–10 cốc 300 ml mỗi ngày, để lượng nước tiểu trên khoảng 2 lít/ngày — áp dụng cho mọi loại sỏi",
+    "Ăn nhạt, nhiều rau quả giàu kali",
+    "Hạn chế đạm động vật",
+    "Không kiêng canxi: ăn lượng canxi bình thường (khoảng 2–3 suất sữa mỗi ngày), vì ăn quá ít canxi lại làm tăng nguy cơ sỏi",
+    "Người có nhiều oxalat trong nước tiểu: bác sĩ có thể khuyên bớt thức ăn nhiều oxalat (rau chân vịt, đại hoàng, ca cao, các loại hạt, trà)"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Stones in the Urinary Tract, cập nhật 11/2025",
+      "url": "https://www.msdmanuals.com/home/kidney-and-urinary-tract-disorders/stones-in-the-urinary-tract/stones-in-the-urinary-tract"
+    }
+  ],
+  "da_kiem": true
+}

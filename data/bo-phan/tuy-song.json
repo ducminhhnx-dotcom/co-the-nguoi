@@ -1,0 +1,61 @@
+{
+  "id": "tuy-song",
+  "ten": "Tủy sống",
+  "ten_khac": "Medulla spinalis / Spinal cord",
+  "he": "than-kinh",
+  "mo_hinh": "tuy-song",
+  "them_tu_ban": "0.14",
+  "co_ban": {
+    "vi_tri": "Nằm trong ống sống, nối tiếp thân não. Chia thành các đoạn cổ, ngực, thắt lưng, cùng; đoạn tủy cùng nằm ngang các đốt sống thắt lưng trên. Phía dưới, các rễ thần kinh chạy tiếp thành bó dài giống đuôi ngựa.",
+    "so_lieu": [
+      "Dây thần kinh sống: 31 đôi",
+      "Đôi dây cổ: 8 (C1–C8)",
+      "Đôi dây ngực: 12 (T1–T12)",
+      "Đôi dây thắt lưng, cùng, cụt: 5, 5 và 1"
+    ],
+    "mo_ta": "Mặt cắt ngang: chất xám ở giữa hình chữ H, chất trắng bao quanh. Tủy phình to ở đoạn cổ và đoạn thắt lưng vì có nhiều nơron hơn (nơi xuất phát dây thần kinh tay và chân). Tủy gần như không dài thêm sau 1–2 tuổi."
+  },
+  "chuc_nang": [
+    "Sừng sau chất xám nhận và xử lý tín hiệu cảm giác; sừng trước chứa nơron vận động điều khiển cơ vân; sừng bên (đoạn ngực, thắt lưng trên, cùng) chứa nơron của hệ thần kinh tự chủ",
+    "Chất trắng gồm các bó sợi trục: cột sau chỉ có đường cảm giác đi lên não; cột trước và cột bên có cả đường đi lên và đường vận động đi xuống",
+    "Phối hợp phản xạ nhờ nối đường cảm giác với đường vận động ngay trong tủy",
+    "Mỗi dây thần kinh sống mang cả sợi cảm giác (vào tủy qua rễ sau, có hạch rễ sau) và sợi vận động (ra khỏi tủy qua rễ trước)"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "nao",
+        "mo_ta": "Nối tiếp thân não; đưa tín hiệu cảm giác lên não và nhận lệnh vận động từ não xuống"
+      },
+      {
+        "id": "cot-song",
+        "mo_ta": "Nằm trong ống sống; dây thần kinh sống chui ra ở khe giữa các đốt"
+      },
+      {
+        "id": "co-chi-tren",
+        "mo_ta": "Đám rối cánh tay (C4–T1) tạo các dây thần kinh quay, trụ, giữa đi tới tay"
+      },
+      {
+        "id": "co-chi-duoi",
+        "mo_ta": "Đám rối thắt lưng tạo dây thần kinh đùi; đám rối cùng (L4–S4) tạo dây thần kinh tọa đi xuống chân"
+      }
+    ],
+    "toan_than": [
+      "Các dây thần kinh sống tạo 4 đám rối: cổ, cánh tay, thắt lưng, cùng. Đám rối cổ tạo dây thần kinh hoành điều khiển cơ hoành để thở; dây ngực T2–T11 không vào đám rối mà thành dây thần kinh liên sườn.",
+      "Dây thần kinh tọa bị chèn ép hoặc kích thích gây đau thần kinh tọa.",
+      "Sợi trục của nơron vận động ở sừng trước có thể dài tới khoảng 1 mét (ví dụ sợi tới ngón chân cái)."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 13.2 The Central Nervous System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 13.4 The Peripheral Nervous System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,44 @@
+{
+  "id": "co-chi-tren",
+  "ten": "Cơ đai vai và chi trên",
+  "ten_khac": "Musculi membri superioris",
+  "he": "co",
+  "mo_hinh": "co-chi-tren",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Vai, cánh tay, cẳng tay và bàn tay.",
+    "so_lieu": [
+      "Cơ chóp xoay: 4 (dưới vai, trên gai, dưới gai, tròn bé)",
+      "Ống cổ tay: 9 gân và dây thần kinh giữa đi qua"
+    ]
+  },
+  "chuc_nang": [
+    "Cơ delta là cơ dạng chính, nâng cánh tay",
+    "Cơ nhị đầu cánh tay gập cẳng tay; cơ tam đầu cánh tay duỗi cẳng tay",
+    "Cơ gấp các ngón nông gập ngón tay; cơ duỗi các ngón mở ngón tay",
+    "Các cơ mô cái, mô út, cơ giun và cơ gian cốt làm cử động tinh của bàn tay"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "xuong-chi-tren",
+        "mo_ta": "Bám vào xương đai vai và chi trên để cử động"
+      }
+    ],
+    "toan_than": [
+      "Hội chứng ống cổ tay là khi dây thần kinh giữa bị chèn ép trong ống cổ tay."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.5 Muscles of the Pectoral Girdle and Upper Limbs",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-5-muscles-of-the-pectoral-girdle-and-upper-limbs"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.1 Interactions of Skeletal Muscles, Their Fascicle Arrangement, and Their Lever Systems",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems"
+    }
+  ],
+  "da_kiem": true
+}

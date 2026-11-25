@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "co-the-nguoi",
+      "runtimeExecutable": "py",
+      "runtimeArgs": ["tools/may-chu.py", "8765"],
+      "port": 8765
+    }
+  ]
+}

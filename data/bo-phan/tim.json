@@ -1,0 +1,80 @@
+{
+  "id": "tim",
+  "ten": "Tim",
+  "ten_khac": "Cor / Heart",
+  "he": "tuan-hoan",
+  "mo_hinh": "tim",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Trong trung thất, giữa hai phổi; mỏm tim nằm ngay bên trái xương ức, khoảng giữa xương sườn 4 và 5.",
+    "so_lieu": [
+      "Khối lượng: khoảng 250–300 g (nữ trưởng thành), 300–350 g (nam trưởng thành)",
+      "Kích thước: cỡ nắm tay, dài khoảng 12 cm, rộng 8 cm, dày 6 cm (tim điển hình người lớn)",
+      "Nhịp lúc nghỉ: 60–100 lần/phút (người trưởng thành)",
+      "Cung lượng tim: khoảng 4–8 lít/phút, trung bình khoảng 5 lít/phút (người trưởng thành, lúc nghỉ)",
+      "Số buồng: 4 (2 tâm nhĩ, 2 tâm thất)"
+    ],
+    "mo_ta": "Tim phải đưa máu nghèo oxy lên phổi; tim trái bơm máu giàu oxy đi khắp cơ thể."
+  },
+  "chuc_nang": [
+    "Bơm máu đi nuôi cơ thể (tim trái, vòng tuần hoàn lớn) và lên phổi (tim phải, vòng tuần hoàn nhỏ)",
+    "4 buồng: 2 tâm nhĩ nhận máu, 2 tâm thất bơm máu",
+    "4 van (3 lá, 2 lá, van động mạch phổi, van động mạch chủ) giữ máu chảy một chiều"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "phoi",
+        "mo_ta": "Tim phải bơm máu lên phổi nhận oxy"
+      },
+      {
+        "id": "dong-mach-chu",
+        "mo_ta": "Tâm thất trái tống máu giàu oxy vào động mạch chủ"
+      },
+      {
+        "id": "tinh-mach-chu-tren",
+        "mo_ta": "Đưa máu nghèo oxy từ phần cơ thể trên cơ hoành về tâm nhĩ phải"
+      },
+      {
+        "id": "tinh-mach-chu-duoi",
+        "mo_ta": "Đưa máu nghèo oxy từ phần cơ thể dưới cơ hoành về tâm nhĩ phải"
+      },
+      {
+        "id": "than",
+        "mo_ta": "Thận nhận khoảng 20–25% cung lượng tim lúc nghỉ"
+      },
+      {
+        "id": "dong-mach-phoi",
+        "mo_ta": "Tâm thất phải tống máu nghèo oxy vào thân động mạch phổi"
+      },
+      {
+        "id": "tinh-mach-phoi",
+        "mo_ta": "Nhận máu giàu oxy từ 4 tĩnh mạch phổi vào tâm nhĩ trái"
+      }
+    ],
+    "toan_than": [
+      "Thân nhiệt tăng nhẹ làm tim đập nhanh và co bóp mạnh hơn; sốt là một nguyên nhân gây nhịp tim nhanh.",
+      "Cung lượng tim là một trong các yếu tố quyết định huyết áp: cung lượng tăng thì huyết áp tăng, cung lượng giảm thì huyết áp giảm."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 19.1 Heart Anatomy",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 19.4 Cardiac Physiology",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-4-cardiac-physiology"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.2 Blood Flow, Blood Pressure, and Resistance",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.3 Gross Anatomy of the Kidney",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+    }
+  ],
+  "da_kiem": true
+}

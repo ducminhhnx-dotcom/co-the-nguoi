@@ -1,0 +1,43 @@
+{
+  "id": "khi-quan",
+  "ten": "Khí quản và phế quản",
+  "ten_khac": "Trachea et bronchi",
+  "he": "ho-hap",
+  "mo_hinh": "khi-quan",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Từ thanh quản xuống ngực, nằm trước thực quản; chia đôi thành phế quản gốc phải và trái ở chỗ gọi là carina.",
+    "so_lieu": [
+      "Vòng sụn: 16–20 vòng sụn trong hình chữ C"
+    ]
+  },
+  "chuc_nang": [
+    "Dẫn khí vào và ra khỏi phổi",
+    "Lớp biểu mô có tế bào đài tiết chất nhầy bẫy bụi và mầm bệnh",
+    "Lông chuyển đẩy chất nhầy ngược lên họng để nuốt xuống thực quản",
+    "Carina có thần kinh cảm giác gây ho mạnh khi có dị vật"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "phoi",
+        "mo_ta": "Phế quản chia nhánh nhỏ dần trong phổi, dẫn khí tới phế nang"
+      }
+    ],
+    "toan_than": [
+      "Đây là một hàng rào miễn dịch: chất nhầy chứa mầm bệnh được lông chuyển đẩy lên miệng, nuốt xuống và bị axit dạ dày tiêu diệt."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 22.1 Organs and Structures of the Respiratory System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-1-organs-and-structures-of-the-respiratory-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 21.2 Barrier Defenses and the Innate Immune Response",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-2-barrier-defenses-and-the-innate-immune-response"
+    }
+  ],
+  "da_kiem": true
+}

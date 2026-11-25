@@ -1,0 +1,44 @@
+{
+  "id": "ruot-gia",
+  "ten": "Ruột già",
+  "ten_khac": "Intestinum crassum / Large intestine",
+  "he": "tieu-hoa",
+  "mo_hinh": "ruot-gia",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Bao quanh ruột non ba phía như một khung.",
+    "so_lieu": [
+      "Chiều dài: khoảng một nửa ruột non, tức khoảng 1,5 m (người trưởng thành)",
+      "Đường kính: khoảng 7,6 cm",
+      "Thời gian chất bã lưu lại: thường 12–24 giờ"
+    ]
+  },
+  "chuc_nang": [
+    "Hấp thụ nước và muối, tạo và thải phân",
+    "Nơi sống của hệ vi khuẩn đường ruột",
+    "Vi khuẩn ở đây tổng hợp vitamin K, biotin và axit pantothenic"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "ruot-non",
+        "mo_ta": "Nhận phần thức ăn còn lại từ ruột non"
+      }
+    ],
+    "toan_than": [
+      "Vitamin K (một phần do vi khuẩn ruột già tạo ra) cần cho gan sản xuất nhiều yếu tố đông máu."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.5 The Small and Large Intestines",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 18.5 Hemostasis",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-5-hemostasis"
+    }
+  ],
+  "da_kiem": true
+}

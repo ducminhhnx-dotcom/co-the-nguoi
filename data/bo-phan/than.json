@@ -1,0 +1,71 @@
+{
+  "id": "than",
+  "ten": "Thận",
+  "ten_khac": "Ren / Kidney",
+  "he": "tiet-nieu",
+  "mo_hinh": "than",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Sau phúc mạc, áp thành bụng sau; thận trái ngang đốt sống T12–L3, thận phải thấp hơn một chút do gan đẩy xuống.",
+    "so_lieu": [
+      "Số đơn vị lọc: khoảng 1,3 triệu nephron mỗi quả",
+      "Lượng máu nhận: khoảng 20–25% cung lượng tim (lúc nghỉ)",
+      "Dịch lọc: khoảng 180 lít/ngày (nam), 150 lít/ngày (nữ)",
+      "Nước tiểu: khoảng 1–2 lít/ngày (người trưởng thành)"
+    ]
+  },
+  "chuc_nang": [
+    "Lọc máu, thải chất thải qua nước tiểu; tái hấp thu khoảng 99% dịch lọc",
+    "Điều hòa nước, muối và huyết áp (qua renin)",
+    "Tiết erythropoietin (EPO) kích thích tạo hồng cầu",
+    "Chuyển vitamin D sang dạng hoạt động, giúp hấp thu canxi"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "dong-mach-than",
+        "mo_ta": "Đưa máu tới thận để lọc"
+      },
+      {
+        "id": "bang-quang",
+        "mo_ta": "Nước tiểu theo niệu quản xuống bàng quang"
+      },
+      {
+        "id": "tim",
+        "mo_ta": "Nhận khoảng 20–25% cung lượng tim lúc nghỉ"
+      }
+    ],
+    "toan_than": [
+      "Thận giữ hoặc thải muối và nước, và tiết renin khi huyết áp thấp, để điều chỉnh huyết áp.",
+      "Thận tạo khoảng 85% lượng EPO lưu hành: suy thận làm giảm EPO và gây thiếu máu."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.1 Physical Characteristics of Urine",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-1-physical-characteristics-of-urine"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.3 Gross Anatomy of the Kidney",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.4 Microscopic Anatomy of the Kidney",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-4-microscopic-anatomy-of-the-kidney"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.5 Physiology of Urine Formation",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-5-physiology-of-urine-formation"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.10 The Urinary System and Homeostasis",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-10-the-urinary-system-and-homeostasis"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 18.3 Erythrocytes",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-3-erythrocytes"
+    }
+  ],
+  "da_kiem": true
+}

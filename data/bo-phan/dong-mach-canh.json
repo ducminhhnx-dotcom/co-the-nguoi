@@ -1,0 +1,50 @@
+{
+  "id": "dong-mach-canh",
+  "ten": "Động mạch cảnh",
+  "ten_khac": "Arteria carotis communis",
+  "he": "tuan-hoan",
+  "mo_hinh": "dong-mach-canh",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Hai bên cổ; chia thành động mạch cảnh trong và cảnh ngoài.",
+    "so_lieu": [
+      "Loại máu: giàu oxy",
+      "Bắt mạch: động mạch cảnh chung ở cổ là một chỗ bắt mạch thường dùng"
+    ]
+  },
+  "chuc_nang": [
+    "Động mạch cảnh trong cấp máu cho não",
+    "Động mạch cảnh ngoài cấp máu cho các mô bên ngoài hộp sọ"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "nao",
+        "mo_ta": "Là nguồn máu giàu oxy chính cho não"
+      },
+      {
+        "id": "dong-mach-chu",
+        "mo_ta": "Bên trái tách thẳng từ quai động mạch chủ; bên phải tách từ thân cánh tay đầu"
+      }
+    ],
+    "toan_than": [
+      "Gốc động mạch cảnh chung có thụ thể căng, phản ứng ngay khi huyết áp tụt lúc đứng dậy, giúp giữ máu lên não."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.2 Blood Flow, Blood Pressure, and Resistance",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 13.3 Circulation and the Central Nervous System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system"
+    }
+  ],
+  "da_kiem": true
+}

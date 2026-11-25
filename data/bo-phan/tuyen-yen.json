@@ -1,0 +1,60 @@
+{
+  "id": "tuyen-yen",
+  "ten": "Tuyến yên",
+  "ten_khac": "Hypophysis / Pituitary gland",
+  "he": "noi-tiet",
+  "mo_hinh": "tuyen-yen",
+  "them_tu_ban": "0.11",
+  "co_ban": {
+    "vi_tri": "Nằm trong hố yên của xương bướm ở nền sọ, treo dưới vùng dưới đồi của não bằng một cuống (cuống tuyến yên). Gồm thùy trước (mô tuyến) và thùy sau (mô thần kinh).",
+    "so_lieu": [
+      "Kích thước: cỡ hạt đậu",
+      "Thùy trước tiết: GH, TSH, ACTH, FSH, LH, prolactin",
+      "Thùy sau giải phóng: ADH và oxytocin (do vùng dưới đồi tạo ra)"
+    ],
+    "mo_ta": "Vùng dưới đồi và tuyến yên cùng nhau là \"trung tâm chỉ huy\" của hệ nội tiết."
+  },
+  "chuc_nang": [
+    "GH (hormone tăng trưởng): thúc đẩy mô cơ thể lớn lên, phần lớn qua các yếu tố IGF do gan tạo ra",
+    "TSH kích thích tuyến giáp; ACTH kích thích vỏ thượng thận tiết cortisol; FSH, LH điều khiển tuyến sinh dục",
+    "Prolactin thúc đẩy tuyến vú tạo sữa",
+    "ADH (vasopressin) giúp thận lấy lại nước khi máu đặc; oxytocin làm tử cung co khi sinh và giúp tiết sữa"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "nao",
+        "mo_ta": "Vùng dưới đồi điều khiển thùy trước bằng các hormone giải phóng (qua hệ mạch cửa tuyến yên) và thùy sau bằng sợi trục thần kinh"
+      },
+      {
+        "id": "tuyen-giap",
+        "mo_ta": "TSH kích thích tuyến giáp tiết T3, T4"
+      },
+      {
+        "id": "tuyen-thuong-than",
+        "mo_ta": "ACTH kích thích vỏ thượng thận tiết cortisol"
+      },
+      {
+        "id": "than",
+        "mo_ta": "ADH tác động lên ống thận để lấy lại nước"
+      },
+      {
+        "id": "gan",
+        "mo_ta": "GH kích thích gan tạo IGF"
+      }
+    ],
+    "toan_than": [
+      "Nhiều hormone tuyến yên được điều hòa ngược âm tính: hormone của tuyến đích tăng thì tuyến yên tiết ít đi.",
+      "Thừa GH ở trẻ em gây bệnh khổng lồ; ở người lớn gây to đầu chi (xương mặt, bàn tay, bàn chân to ra). Thiếu GH ở trẻ em gây lùn tuyến yên.",
+      "Thiếu ADH kéo dài (đái tháo nhạt) gây mất nước mạn tính."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 17.3 The Pituitary Gland and Hypothalamus",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-3-the-pituitary-gland-and-hypothalamus"
+    }
+  ],
+  "da_kiem": true
+}

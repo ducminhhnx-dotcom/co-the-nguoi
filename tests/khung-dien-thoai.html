@@ -1,0 +1,11 @@
+<!doctype html>
+<html lang="vi">
+<head><meta charset="utf-8"><title>Khung điện thoại 390 px</title>
+<style>html,body{margin:0;background:#000}iframe{display:block;border:0;width:390px;height:844px}</style></head>
+<body><iframe id="k" title="Trang chính ở khổ 390 px"></iframe>
+<script>
+  // Chuyển tiếp tham số và đường dẫn # cho trang bên trong (ví dụ ?chup&tua=8#mo-phong/trao-doi-khi)
+  document.getElementById('k').src = '../index.html' + (location.search || '?chup') + location.hash;
+</script>
+</body>
+</html>

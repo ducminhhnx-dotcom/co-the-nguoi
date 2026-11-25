@@ -1,0 +1,50 @@
+{
+  "id": "tuyen-thuong-than",
+  "ten": "Tuyến thượng thận",
+  "ten_khac": "Glandula suprarenalis / Adrenal gland",
+  "he": "noi-tiet",
+  "mo_hinh": "tuyen-thuong-than",
+  "them_tu_ban": "0.11",
+  "co_ban": {
+    "vi_tri": "Hai tuyến hình nêm úp trên đỉnh hai quả thận, bọc trong bao xơ. Gồm vỏ thượng thận ở ngoài và tủy thượng thận ở trong; là một trong những nơi được cấp máu nhiều nhất cơ thể.",
+    "so_lieu": [
+      "Vỏ thượng thận: 3 lớp (lớp cầu, lớp bó, lớp lưới)",
+      "Tủy thượng thận tiết adrenaline và noradrenaline: tỷ lệ khoảng 4 : 1"
+    ]
+  },
+  "chuc_nang": [
+    "Lớp cầu của vỏ tiết aldosterone: giữ natri, thải kali qua thận, làm tăng thể tích máu và huyết áp",
+    "Lớp bó tiết cortisol: huy động năng lượng (phân giải glycogen, mỡ, protein cơ) và kìm phản ứng viêm",
+    "Lớp lưới tiết một lượng nhỏ androgen",
+    "Tủy tiết adrenaline và noradrenaline trong phản ứng \"chiến hay chạy\": tăng nhịp tim, tăng huyết áp, giãn đường thở, tăng đường máu"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "than",
+        "mo_ta": "Nằm trên đỉnh thận; aldosterone tác động lên ống thận để giữ natri, thải kali"
+      },
+      {
+        "id": "tim",
+        "mo_ta": "Adrenaline và noradrenaline làm tim đập nhanh, huyết áp tăng"
+      },
+      {
+        "id": "nao",
+        "mo_ta": "Vùng dưới đồi điều khiển: qua tuyến yên (hormone ACTH) kích thích tiết cortisol, và qua thần kinh giao cảm kích thích tủy thượng thận"
+      }
+    ],
+    "toan_than": [
+      "Khi căng thẳng, cơ thể phản ứng theo 3 giai đoạn: báo động (adrenaline, noradrenaline), chống đỡ, rồi kiệt sức (do cortisol kéo dài).",
+      "Aldosterone được tiết khi kali máu cao, natri máu thấp, huyết áp hoặc thể tích máu thấp — một phần của hệ renin – angiotensin – aldosterone điều hòa huyết áp.",
+      "Thừa cortisol (bệnh Cushing): mặt tròn, bướu mỡ sau gáy, đường máu cao. Thiếu hormone vỏ thượng thận (bệnh Addison): yếu mệt, sụt cân, đường máu và natri máu thấp, thèm mặn."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 17.6 The Adrenal Glands",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-6-the-adrenal-glands"
+    }
+  ],
+  "da_kiem": true
+}

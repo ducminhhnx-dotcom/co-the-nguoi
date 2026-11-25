@@ -1,0 +1,39 @@
+{
+  "id": "trao-nguoc-da-day-thuc-quan",
+  "ten": "Trào ngược dạ dày – thực quản",
+  "ten_khac": "Gastroesophageal reflux disease (GERD)",
+  "loai": "tieu-hoa",
+  "bo_phan": [
+    "thuc-quan",
+    "da-day"
+  ],
+  "nguyen_nhan": "Chất trong dạ dày (axit, mật) trào ngược lên thực quản, gây viêm và đau ở phần dưới ngực. Bình thường cơ thắt dưới thực quản đóng kín, chỉ mở khi nuốt; khi cơ này yếu, dịch dạ dày dễ trào lên — nhất là khi nằm và ngay sau bữa ăn. Thực quản không có lớp lót chống axit như dạ dày. Yếu tố góp phần: béo phì, hút thuốc, đồ ăn nhiều mỡ, đồ uống có caffeine hoặc có ga, rượu bia, một số thuốc, dạ dày chậm rỗng; một số người có yếu tố di truyền. Khoảng 13% người trên thế giới mắc. Trẻ nhũ nhi trớ nhiều có thể là bình thường.",
+  "trieu_chung": [
+    "Ợ nóng: cảm giác nóng rát sau xương ức",
+    "Ợ trớ: dịch dạ dày lên tới miệng",
+    "Đau họng, khàn tiếng, ho, cảm giác vướng ở cổ; đôi khi khò khè",
+    "Nuốt khó hoặc nuốt đau ở người bị lâu ngày",
+    "Biến chứng khi kéo dài: viêm, loét, hẹp thực quản; thực quản Barrett (tế bào biến đổi tiền ung thư, có thể không có triệu chứng); chảy máu"
+  ],
+  "khi_nao_di_kham": [
+    "Ợ nóng thường xuyên hoặc kéo dài: đi khám",
+    "Nuốt khó, nuốt đau: đi khám (có thể đã có viêm, loét, hẹp thực quản)",
+    "Nôn ra máu, đi ngoài phân đen như hắc ín hoặc có máu đỏ: đi cấp cứu",
+    "Mệt, xanh xao kéo dài ở người trào ngược lâu năm: đi khám vì chảy máu ít kéo dài có thể gây thiếu máu"
+  ],
+  "phong_ngua": [
+    "Giảm cân nếu thừa cân",
+    "Không ăn trong khoảng 4 giờ trước khi đi ngủ",
+    "Kê cao đầu giường khoảng 15 cm (kê khối gỗ dưới chân giường phía đầu, hoặc dùng gối, đệm hình nêm)",
+    "Bỏ thuốc lá",
+    "Hạn chế cà phê, rượu bia, đồ ăn nhiều mỡ, sô-cô-la, nước cam, nước ngọt có ga và các thứ làm triệu chứng nặng lên"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Gastroesophageal Reflux Disease (GERD), cập nhật 02/2026",
+      "url": "https://www.msdmanuals.com/home/digestive-disorders/esophageal-and-swallowing-disorders/gastroesophageal-reflux-disease-gerd"
+    }
+  ],
+  "da_kiem": true
+}

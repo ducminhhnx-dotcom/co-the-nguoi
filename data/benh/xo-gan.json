@@ -1,0 +1,39 @@
+{
+  "id": "xo-gan",
+  "ten": "Xơ gan",
+  "ten_khac": "Cirrhosis",
+  "loai": "gan",
+  "bo_phan": [
+    "gan",
+    "tinh-mach-cua"
+  ],
+  "nguyen_nhan": "Gan bị tổn thương lặp lại hoặc kéo dài, nên nhiều mô gan bình thường bị thay vĩnh viễn bằng mô sẹo không hoạt động. Sẹo làm méo cấu trúc bên trong, gan teo nhỏ, cứng lại và khó tái tạo; tổn thương thường không hồi phục. Nguyên nhân hay gặp nhất: uống rượu bia nhiều kéo dài, viêm gan C mạn, viêm gan B kéo dài từ 6 tháng trở lên, gan nhiễm mỡ không do rượu (thường đi kèm thừa cân, đái tháo đường hoặc tiền đái tháo đường, mỡ máu cao). Nguyên nhân ít gặp hơn: ứ sắt, ứ đồng, viêm gan tự miễn, bệnh đường mật mạn tính, một số thuốc hoặc độc chất. Mô sẹo cản dòng máu qua tĩnh mạch cửa, gây tăng áp lực tĩnh mạch cửa.",
+  "trieu_chung": [
+    "Nhiều người không có triệu chứng trong nhiều năm",
+    "Mệt mỏi, người khó chịu, chán ăn, sụt cân",
+    "Vàng da, vàng mắt, nước tiểu sẫm màu; ngứa",
+    "Dễ bầm tím, dễ chảy máu; lòng bàn tay đỏ; các nốt mạch máu hình sao trên da; teo cơ",
+    "Giai đoạn muộn: bụng to dần do tích dịch (cổ trướng), lú lẫn, buồn ngủ, khó thở, đi tiểu ít",
+    "Biến chứng: giãn tĩnh mạch thực quản, dạ dày dễ vỡ gây chảy máu; nhiễm trùng dịch bụng; ung thư gan; suy gan, suy thận"
+  ],
+  "khi_nao_di_kham": [
+    "Nôn ra máu, đi ngoài ra máu: đi cấp cứu ngay",
+    "Bụng to nhanh, đau bụng kèm sốt, lú lẫn hoặc lơ mơ, khó thở, tiểu rất ít: đi cấp cứu",
+    "Vàng da, vàng mắt, dễ bầm tím, mệt hoặc sụt cân không rõ lý do: đi khám",
+    "Người uống nhiều rượu bia, mắc viêm gan B hoặc C, gan nhiễm mỡ: khám và theo dõi gan theo hẹn của bác sĩ"
+  ],
+  "phong_ngua": [
+    "Không uống hoặc hạn chế rượu bia; người đã có bệnh gan nên bỏ hẳn rượu",
+    "Tiêm vắc-xin viêm gan B (và viêm gan A nếu chưa tiêm) để bảo vệ gan",
+    "Giữ cân nặng hợp lý, kiểm soát đường máu và mỡ máu để tránh gan nhiễm mỡ",
+    "Người đang mắc viêm gan B, C: điều trị và theo dõi theo hướng dẫn của bác sĩ"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Cirrhosis of the Liver, cập nhật 10/2026",
+      "url": "https://www.msdmanuals.com/home/liver-and-gallbladder-disorders/fibrosis-and-cirrhosis-of-the-liver/cirrhosis-of-the-liver"
+    }
+  ],
+  "da_kiem": true
+}

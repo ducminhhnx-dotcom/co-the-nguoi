@@ -1,0 +1,52 @@
+{
+  "id": "tuyen-giap",
+  "ten": "Tuyến giáp",
+  "ten_khac": "Glandula thyroidea / Thyroid gland",
+  "he": "noi-tiet",
+  "mo_hinh": "tuyen-giap",
+  "them_tu_ban": "0.11",
+  "co_ban": {
+    "vi_tri": "Ở mặt trước cổ, ngay dưới thanh quản, trước khí quản. Hình con bướm: hai thùy trái, phải nối với nhau bằng eo giáp ở giữa; các tuyến cận giáp nằm ở mặt sau hai thùy.",
+    "so_lieu": [
+      "Hormone T4 (thyroxine): mang 4 nguyên tử iốt",
+      "Hormone T3: mang 3 nguyên tử iốt (mạnh hơn T4)",
+      "T3, T4 tự do trong máu: dưới 1% (phần còn lại gắn với protein huyết tương)"
+    ],
+    "mo_ta": "Mô tuyến gồm nhiều nang tròn, giữa mỗi nang là chất keo — nơi gắn iốt để tạo hormone giáp."
+  },
+  "chuc_nang": [
+    "Tiết hormone giáp T3 và T4, điều chỉnh mức chuyển hóa cơ bản: tăng tạo năng lượng ATP trong tế bào và sinh nhiệt",
+    "Cần cho tổng hợp protein, cho sự lớn lên và phát triển mô ở thai nhi và trẻ em, nhất là hệ thần kinh",
+    "Làm các tế bào nhạy hơn với adrenaline và noradrenaline",
+    "Tế bào cận nang tiết calcitonin khi canxi máu tăng, giúp hạ canxi máu (vai trò thường không lớn)"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "khi-quan",
+        "mo_ta": "Tuyến giáp ôm phía trước khí quản, ngay dưới thanh quản"
+      },
+      {
+        "id": "nao",
+        "mo_ta": "Vùng dưới đồi tiết TRH, kích thích tuyến yên tiết TSH, rồi TSH kích thích tuyến giáp tiết T3, T4"
+      },
+      {
+        "id": "tim",
+        "mo_ta": "Thừa hormone giáp làm tim đập nhanh"
+      }
+    ],
+    "toan_than": [
+      "Điều hòa ngược âm tính: khi T3, T4 trong máu tăng, tuyến yên giảm tiết TSH; khi T3, T4 giảm, vùng dưới đồi và tuyến yên tăng kích thích.",
+      "Thiếu iốt trong ăn uống làm TSH tăng quá mức, tuyến giáp to lên (bướu cổ); đây là nguyên nhân hàng đầu gây khuyết tật trí tuệ có thể phòng được trên thế giới. Muối iốt là nguồn iốt chính ở nhiều nước.",
+      "Thiếu hormone giáp: chuyển hóa chậm, tăng cân, lạnh tay chân, táo bón, chậm chạp. Thừa hormone giáp: nóng, vã mồ hôi, sụt cân, run tay, tim nhanh."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 17.4 The Thyroid Gland",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland"
+    }
+  ],
+  "da_kiem": true
+}

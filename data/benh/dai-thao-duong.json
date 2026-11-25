@@ -1,0 +1,49 @@
+{
+  "id": "dai-thao-duong",
+  "ten": "Đái tháo đường",
+  "ten_khac": "Diabetes mellitus",
+  "loai": "noi-tiet",
+  "bo_phan": [
+    "tuy",
+    "than",
+    "tim",
+    "nao"
+  ],
+  "nguyen_nhan": "Bệnh mạn tính khi tụy không tạo đủ insulin hoặc cơ thể không dùng insulin hiệu quả, làm đường máu cao bất thường. Týp 1 (khoảng 5–10% số ca): hệ miễn dịch phá hủy tế bào tạo insulin của tụy, thường khởi phát khi còn trẻ; hiện chưa biết cách phòng. Týp 2 (90–95% số ca trở lên): cơ thể kháng insulin, thường bắt đầu sau 30 tuổi và tăng theo tuổi; liên quan thừa cân, ít vận động và di truyền, nay gặp cả ở trẻ em. Năm 2022 có khoảng 830 triệu người mắc, 14% người từ 18 tuổi trở lên. Chẩn đoán khi đường máu lúc đói từ 7,0 mmol/L trở lên, hoặc HbA1c từ 6,5% trở lên (xét nghiệm tại phòng xét nghiệm đạt chuẩn).",
+  "trieu_chung": [
+    "Khát nhiều, tiểu nhiều, hay đói",
+    "Sụt cân dù không cố ý",
+    "Mệt mỏi, nhìn mờ",
+    "Đái tháo đường týp 2 có thể chỉ có triệu chứng nhẹ trong nhiều năm, nhiều người không biết mình bị",
+    "Biến chứng lâu dài: mắt (có thể mù), thận (bệnh thận mạn), thần kinh (giảm cảm giác ở bàn chân, cẳng chân), tim (nhồi máu cơ tim, suy tim), não (đột quỵ), loét bàn chân có thể phải cắt cụt"
+  ],
+  "khi_nao_di_kham": [
+    "Có các triệu chứng khát nhiều, tiểu nhiều, sụt cân không rõ lý do: đi khám và xét nghiệm đường máu",
+    "Buồn nôn, nôn, đau bụng, thở sâu nhanh, hơi thở có mùi trái cây hoặc mùi nước tẩy sơn móng tay, lơ mơ: có thể là nhiễm toan ceton — cấp cứu ngay",
+    "Người có tiền đái tháo đường hoặc thừa cân, ít vận động: hỏi bác sĩ về xét nghiệm đường máu định kỳ",
+    "Người đang mắc: khám định kỳ mắt, thận, bàn chân; mang theo giấy hoặc vòng ghi bệnh để nhân viên y tế biết khi cấp cứu"
+  ],
+  "phong_ngua": [
+    "Đạt và giữ cân nặng hợp lý; người có tiền đái tháo đường giảm 5–10% cân nặng giúp giảm rõ nguy cơ",
+    "Vận động vừa sức ít nhất 150 phút mỗi tuần, chia ít nhất 3 ngày",
+    "Ăn uống lành mạnh: hạn chế đường, thức ăn chế biến sẵn, chất béo bão hòa; ăn nhiều chất xơ",
+    "Không hút thuốc; hạn chế rượu bia",
+    "Đái tháo đường týp 1 hiện chưa có cách phòng"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "WHO — Diabetes (fact sheet), 11/11/2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes"
+    },
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Overview of Diabetes Mellitus, cập nhật 06/2026",
+      "url": "https://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/diabetes-mellitus-and-low-blood-sugar-hypoglycemia/overview-of-diabetes-mellitus"
+    },
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Type 1 Diabetes Mellitus, cập nhật 07/2026",
+      "url": "https://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/diabetes-mellitus-dm"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,52 @@
+{
+  "id": "xuong-chau",
+  "ten": "Xương chậu",
+  "ten_khac": "Os coxae / Hip bone",
+  "he": "xuong",
+  "mo_hinh": "xuong-chau",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Hai bên hông; mỗi xương chậu khớp phía sau với xương cùng.",
+    "so_lieu": [
+      "Số xương: 2 (mỗi bên một)",
+      "Thành phần: xương cánh chậu, xương ngồi, xương mu dính lại (dính xong ở cuối tuổi thiếu niên)",
+      "Khung chậu: 2 xương chậu, xương cùng và xương cụt"
+    ],
+    "mo_ta": "Hai xương chậu tạo thành đai chậu; các xương chậu gắn chặt, gần như không cử động, là khung chịu lực."
+  },
+  "chuc_nang": [
+    "Nối chi dưới vào bộ xương trục qua khớp với xương cùng",
+    "Đỡ trọng lượng thân trên khi ngồi, truyền xuống chi dưới khi đứng",
+    "Là chỗ bám của cơ thân và cơ chi dưới",
+    "Bảo vệ các cơ quan trong chậu"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "cot-song",
+        "mo_ta": "Khớp với xương cùng"
+      },
+      {
+        "id": "xuong-chi-duoi",
+        "mo_ta": "Nối chi dưới vào bộ xương trục"
+      },
+      {
+        "id": "bang-quang",
+        "mo_ta": "Khung chậu bảo vệ các cơ quan trong chậu"
+      },
+      {
+        "id": "co-chi-duoi",
+        "mo_ta": "Là chỗ bám của các cơ chi dưới"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 8.3 The Pelvic Girdle and Pelvis",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-3-the-pelvic-girdle-and-pelvis"
+    }
+  ],
+  "da_kiem": true
+}

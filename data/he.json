@@ -1,0 +1,68 @@
+{
+  "phien_ban_cau_truc": 1,
+  "he": [
+    {
+      "id": "he-da",
+      "ten": "Da",
+      "ten_day_du": "Hệ da (vỏ bọc)",
+      "mau": "#5fd6ff"
+    },
+    {
+      "id": "tuan-hoan",
+      "ten": "Tuần hoàn",
+      "ten_day_du": "Hệ tuần hoàn",
+      "mau": "#ff4d6a",
+      "mau_phu": "#4d8dff"
+    },
+    {
+      "id": "ho-hap",
+      "ten": "Hô hấp",
+      "ten_day_du": "Hệ hô hấp",
+      "mau": "#7fe8ff"
+    },
+    {
+      "id": "tieu-hoa",
+      "ten": "Tiêu hóa",
+      "ten_day_du": "Hệ tiêu hóa",
+      "mau": "#ffb36b"
+    },
+    {
+      "id": "tiet-nieu",
+      "ten": "Tiết niệu",
+      "ten_day_du": "Hệ tiết niệu",
+      "mau": "#c58bff"
+    },
+    {
+      "id": "than-kinh",
+      "ten": "Thần kinh",
+      "ten_day_du": "Hệ thần kinh",
+      "mau": "#c58bff"
+    },
+    {
+      "id": "mien-dich",
+      "ten": "Miễn dịch",
+      "ten_day_du": "Hệ bạch huyết – miễn dịch",
+      "mau": "#c58bff"
+    },
+    {
+      "id": "noi-tiet",
+      "ten": "Nội tiết",
+      "ten_day_du": "Hệ nội tiết",
+      "mau": "#ffe066"
+    },
+    {
+      "id": "xuong",
+      "ten": "Xương",
+      "ten_day_du": "Hệ xương",
+      "mau": "#dfe9f5",
+      "an_mac_dinh": true
+    },
+    {
+      "id": "co",
+      "ten": "Cơ",
+      "ten_day_du": "Hệ cơ",
+      "mau": "#f08bb4",
+      "an_mac_dinh": true
+    }
+  ]
+}

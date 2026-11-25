@@ -1,0 +1,36 @@
+{
+  "id": "tinh-mach-chu-tren",
+  "ten": "Tĩnh mạch chủ trên",
+  "ten_khac": "Vena cava superior",
+  "he": "tuan-hoan",
+  "mo_hinh": "tinh-mach-chu-tren",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Phần trên ngực, do hai tĩnh mạch cánh tay đầu hợp lại; đổ vào tâm nhĩ phải.",
+    "so_lieu": [
+      "Vùng dẫn lưu: phần cơ thể trên cơ hoành (đầu, cổ, ngực, vai, tay)",
+      "Loại máu: nghèo oxy",
+      "Lấy máu xét nghiệm: thường ở tĩnh mạch giữa khuỷu tay"
+    ]
+  },
+  "chuc_nang": [
+    "Đưa máu nghèo oxy từ đầu, cổ, ngực, tay về tim"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tim",
+        "mo_ta": "Đổ vào tâm nhĩ phải"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    }
+  ],
+  "da_kiem": true
+}

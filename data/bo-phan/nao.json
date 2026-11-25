@@ -1,0 +1,65 @@
+{
+  "id": "nao",
+  "ten": "Não",
+  "ten_khac": "Encephalon / Brain",
+  "he": "than-kinh",
+  "mo_hinh": "nao",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Trong hộp sọ.",
+    "so_lieu": [
+      "Lưu lượng máu: khoảng 750 mL/phút (người trẻ khỏe, lúc nghỉ; gần như không đổi khi vận động)",
+      "Tiểu não: khoảng 10% khối lượng não"
+    ],
+    "mo_ta": "Trung tâm điều khiển của cơ thể, nhận tín hiệu từ giác quan và phát lệnh đi khắp nơi."
+  },
+  "chuc_nang": [
+    "Tiếp nhận và xử lý thông tin từ các giác quan",
+    "Điều khiển vận động, ngôn ngữ, trí nhớ, cảm xúc",
+    "Vùng dưới đồi điều hòa cân bằng nội môi: thân nhiệt, cơn khát, hệ thần kinh tự chủ và tuyến yên"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "dong-mach-canh",
+        "mo_ta": "Động mạch cảnh trong (cùng động mạch đốt sống) cấp máu cho não"
+      },
+      {
+        "id": "tim",
+        "mo_ta": "Não cần dòng máu liên tục do tim bơm lên"
+      }
+    ],
+    "toan_than": [
+      "Thiếu oxy gây hại nặng cho hệ thần kinh trung ương; vòng động mạch não (đa giác Willis) giúp giữ máu tới não khi một nhánh bị hẹp hoặc tắc.",
+      "Vùng dưới đồi hoạt động như bộ điều nhiệt: thân nhiệt xuống dưới mức đặt thì gây run để sinh nhiệt."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 12.1 Basic Structure and Function of the Nervous System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/12-1-basic-structure-and-function-of-the-nervous-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 13.2 The Central Nervous System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-2-the-central-nervous-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 13.3 Circulation and the Central Nervous System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-3-circulation-and-the-central-nervous-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 15.3 Central Control",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/15-3-central-control"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.4 Homeostatic Regulation of the Vascular System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-4-homeostatic-regulation-of-the-vascular-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 24.6 Energy and Heat Balance",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-6-energy-and-heat-balance"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,61 @@
+{
+  "id": "tuy",
+  "ten": "Tụy",
+  "ten_khac": "Pancreas",
+  "he": "noi-tiet",
+  "mo_hinh": "tuy",
+  "them_tu_ban": "0.11",
+  "co_ban": {
+    "vi_tri": "Nằm ngang sau dạ dày, sau phúc mạc. Đầu tụy nằm gọn trong khúc cong hình chữ C của tá tràng, thân chạy sang trái, đuôi tụy thon dần tới rốn lách.",
+    "so_lieu": [
+      "Thân tụy kéo dài sang trái: khoảng 15 cm",
+      "Dịch tụy: hơn 1 lít/ngày",
+      "Tế bào beta (tiết insulin): khoảng 75% tế bào mỗi đảo tụy",
+      "Tế bào alpha (tiết glucagon): khoảng 20% tế bào mỗi đảo tụy"
+    ],
+    "mo_ta": "Tụy vừa là tuyến ngoại tiết (chủ yếu: các chùm nang tiết dịch tiêu hóa), vừa là tuyến nội tiết (các đảo tụy rải rác giữa các nang)."
+  },
+  "chuc_nang": [
+    "Ngoại tiết: tiết dịch tụy chứa men tiêu hóa và bicarbonat (pH 7,1–8,2) đổ vào tá tràng, trung hòa axit dạ dày và tiêu hóa tinh bột, protein, mỡ",
+    "Tế bào beta tiết insulin: hạ đường máu — giúp tế bào nhận glucose, kích thích gan dự trữ glycogen, tăng tổng hợp mỡ và protein",
+    "Tế bào alpha tiết glucagon: tăng đường máu — phân giải glycogen, tạo glucose mới, phân giải mỡ",
+    "Tế bào delta tiết somatostatin (khoảng 4% tế bào đảo); tế bào PP tiết polypeptide tụy (khoảng 1%)"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "ruot-non",
+        "mo_ta": "Dịch tụy cùng mật đổ vào tá tràng qua bóng gan – tụy"
+      },
+      {
+        "id": "gan",
+        "mo_ta": "Insulin giúp gan dự trữ glycogen; glucagon làm gan phân giải glycogen, đưa glucose vào máu"
+      },
+      {
+        "id": "da-day",
+        "mo_ta": "Nằm sau dạ dày; bicarbonat của tụy trung hòa dưỡng chấp chua từ dạ dày xuống"
+      },
+      {
+        "id": "lach",
+        "mo_ta": "Đuôi tụy chạm tới rốn lách"
+      }
+    ],
+    "toan_than": [
+      "Insulin và glucagon tác động ngược chiều nhau để giữ đường máu ổn định.",
+      "Đái tháo đường týp 1 (dưới 5% số ca): bệnh tự miễn phá hủy tế bào beta, cơ thể không tạo được insulin. Týp 2 (khoảng 95% số ca): tế bào kém đáp ứng với insulin; khoảng 80–90% người bệnh thừa cân hoặc béo phì.",
+      "Đường máu cao kéo dài gây tiểu nhiều, khát nhiều, hay đói."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 17.9 The Endocrine Pancreas",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-9-the-endocrine-pancreas"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.6 Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    }
+  ],
+  "da_kiem": true
+}

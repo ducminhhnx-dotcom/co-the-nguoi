@@ -1,0 +1,52 @@
+{
+  "id": "tui-mat",
+  "ten": "Túi mật",
+  "ten_khac": "Vesica biliaris / Gallbladder",
+  "he": "tieu-hoa",
+  "mo_hinh": "tui-mat",
+  "them_tu_ban": "0.12",
+  "co_ban": {
+    "vi_tri": "Túi cơ nằm trong một chỗ lõm nông ở mặt sau thùy phải của gan. Gồm đáy (phần rộng nhất), thân và cổ; cổ nối với ống túi mật.",
+    "so_lieu": [
+      "Chiều dài: 8–10 cm",
+      "Ống túi mật: 1–2 cm",
+      "Cô đặc mật: tới khoảng 10 lần",
+      "Gan tiết mật: khoảng 1 lít/ngày"
+    ],
+    "mo_ta": "Ống túi mật hợp với ống gan chung thành ống mật chủ, dẫn mật xuống tá tràng."
+  },
+  "chuc_nang": [
+    "Chứa mật do gan tiết ra giữa các bữa ăn",
+    "Cô đặc mật: niêm mạc túi mật hút bớt nước và ion",
+    "Khi được kích thích, lớp cơ trơn co lại đẩy mật qua ống túi mật, ống mật chủ xuống tá tràng",
+    "Mật (muối mật, phospholipid) nhũ tương hóa mỡ thành giọt nhỏ khoảng 1 µm để men tiêu hóa mỡ làm việc"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "gan",
+        "mo_ta": "Gan tạo mật; giữa các bữa ăn, mật được dồn về túi mật"
+      },
+      {
+        "id": "ruot-non",
+        "mo_ta": "Mật đổ vào tá tràng giúp tiêu hóa và hấp thu mỡ; muối mật được hút lại ở hồi tràng"
+      },
+      {
+        "id": "tuy",
+        "mo_ta": "Ống mật chủ và ống tụy cùng đổ vào tá tràng qua bóng gan – tụy"
+      }
+    ],
+    "toan_than": [
+      "Chu trình gan – ruột: phần lớn muối mật được hấp thu lại ở hồi tràng, theo tĩnh mạch cửa về gan rồi được tiết lại vào mật.",
+      "Bilirubin — sắc tố chính của mật, sinh ra khi lách loại bỏ hồng cầu già — được thải qua mật; vi khuẩn ruột biến nó thành chất tạo màu cho phân. Khi mật không xuống được ruột, phân bạc màu và nhiều mỡ."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.6 Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    }
+  ],
+  "da_kiem": true
+}

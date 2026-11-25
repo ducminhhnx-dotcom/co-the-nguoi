@@ -1,0 +1,67 @@
+{
+  "id": "gan",
+  "ten": "Gan",
+  "ten_khac": "Hepar / Liver",
+  "he": "tieu-hoa",
+  "mo_hinh": "gan",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Dưới cơ hoành, ở góc trên bên phải ổ bụng, được xương sườn che chắn.",
+    "so_lieu": [
+      "Khối lượng: khoảng 1,4 kg (khoảng 3 pound, người trưởng thành)",
+      "Lượng mật: khoảng 1 lít/ngày (người trưởng thành)",
+      "Nguồn máu: 2 nguồn, động mạch gan và tĩnh mạch cửa"
+    ],
+    "mo_ta": "Tuyến lớn nhất cơ thể. Tĩnh mạch cửa mang máu giàu chất dinh dưỡng từ ruột tới, và cấp cho gan nhiều oxy hơn động mạch gan."
+  },
+  "chuc_nang": [
+    "Xử lý chất dinh dưỡng từ ruột; dự trữ glucose dưới dạng glycogen",
+    "Xử lý thuốc, độc chất và chất thải theo máu từ ruột tới",
+    "Sản xuất mật giúp nhũ tương hóa chất béo",
+    "Tổng hợp albumin, fibrinogen và phần lớn các yếu tố đông máu"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tinh-mach-cua",
+        "mo_ta": "Nhận máu giàu chất dinh dưỡng từ ruột để xử lý trước"
+      },
+      {
+        "id": "ruot-non",
+        "mo_ta": "Mật đổ vào tá tràng giúp ruột non tiêu hóa và hấp thụ chất béo"
+      },
+      {
+        "id": "lach",
+        "mo_ta": "Cùng lách (và tủy xương) loại bỏ hồng cầu già; sản phẩm phân hủy từ lách theo tĩnh mạch lách về gan"
+      }
+    ],
+    "toan_than": [
+      "Gan cần vitamin K để sản xuất nhiều yếu tố đông máu.",
+      "Gan suy thì không thải được bilirubin khỏi máu, da chuyển màu vàng (vàng da)."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.6 Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 18.1 An Overview of Blood",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-1-an-overview-of-blood"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 18.3 Erythrocytes",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-3-erythrocytes"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 18.5 Hemostasis",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-5-hemostasis"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 24.2 Carbohydrate Metabolism",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/24-2-carbohydrate-metabolism"
+    }
+  ],
+  "da_kiem": true
+}

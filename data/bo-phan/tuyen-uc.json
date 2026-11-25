@@ -1,0 +1,48 @@
+{
+  "id": "tuyen-uc",
+  "ten": "Tuyến ức",
+  "ten_khac": "Thymus",
+  "he": "mien-dich",
+  "mo_hinh": "tuyen-uc",
+  "them_tu_ban": "0.13",
+  "co_ban": {
+    "vi_tri": "Trong lồng ngực, giữa xương ức và động mạch chủ, nằm phía trên tim. Gồm hai thùy được mô liên kết giữ sát nhau và bọc thành bao.",
+    "so_lieu": [
+      "Teo dần sau dậy thì: khoảng 3% mô mỗi năm (tới 35–45 tuổi)",
+      "Sau 35–45 tuổi: khoảng 1% mỗi năm"
+    ],
+    "mo_ta": "Bao xơ chia tuyến thành nhiều tiểu thùy. Vùng vỏ ở ngoài dày đặc tế bào T non; vùng tủy ở trong thưa hơn, là nơi tế bào T đi qua trước khi rời tuyến."
+  },
+  "chuc_nang": [
+    "Là cơ quan lympho nguyên phát (cùng tủy xương): nơi tế bào T trưởng thành",
+    "Tế bào T non (thymocyte) rời tủy xương, tới tuyến ức để trưởng thành, rồi đi tới các cơ quan lympho thứ phát (hạch, lách, nang lympho) làm nhiệm vụ miễn dịch"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tim",
+        "mo_ta": "Nằm ngay phía trên tim, trước động mạch chủ"
+      },
+      {
+        "id": "long-nguc",
+        "mo_ta": "Nằm sau xương ức"
+      },
+      {
+        "id": "lach",
+        "mo_ta": "Tế bào T trưởng thành ở tuyến ức rồi tới các cơ quan lympho thứ phát như lách để đáp ứng miễn dịch"
+      }
+    ],
+    "toan_than": [
+      "Hệ bạch huyết thu khoảng 3 lít dịch mỗi ngày (phần dịch rời mao mạch mà không được hút lại) và đưa trở về máu: ống ngực đổ vào tĩnh mạch dưới đòn trái, ống bạch huyết phải đổ vào tĩnh mạch dưới đòn phải.",
+      "Cơ thể có khoảng 500–600 hạch bạch huyết. Amidan là các nang lympho ở thành họng, giúp trẻ nhận diện và tạo miễn dịch với mầm bệnh thường gặp. (Hạch, ống ngực và amidan chưa có trên hình 3D vì bộ dữ liệu không có.)"
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 21.1 Anatomy of the Lymphatic and Immune Systems",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems"
+    }
+  ],
+  "da_kiem": true
+}

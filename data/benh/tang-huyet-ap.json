@@ -1,0 +1,45 @@
+{
+  "id": "tang-huyet-ap",
+  "ten": "Tăng huyết áp",
+  "ten_khac": "Hypertension",
+  "loai": "tim-mach",
+  "bo_phan": [
+    "tim",
+    "dong-mach-chu",
+    "than",
+    "nao"
+  ],
+  "nguyen_nhan": "Áp lực máu trong động mạch cao kéo dài. WHO chẩn đoán khi huyết áp đo ở hai ngày khác nhau đều từ 140/90 mmHg trở lên; hướng dẫn mà MSD Manual dùng coi từ 130/80 mmHg là cao. Khoảng 85% trường hợp không tìm được nguyên nhân (tăng huyết áp nguyên phát); số còn lại do bệnh thận, rối loạn nội tiết hoặc một số chất gây ra. Yếu tố nguy cơ thay đổi được: ăn mặn, ăn nhiều chất béo bão hòa, ít rau quả, ít vận động, thừa cân, hút thuốc, uống nhiều rượu bia, ô nhiễm không khí. Yếu tố không thay đổi được: tuổi cao (động mạch cứng dần), tiền sử gia đình, đái tháo đường hoặc bệnh thận đi kèm. Năm 2024, ước tính khoảng 1,4 tỷ người 30–79 tuổi bị tăng huyết áp (33% nhóm tuổi này), gần một nửa không biết mình bị.",
+  "trieu_chung": [
+    "Phần lớn người bệnh không thấy triệu chứng gì, nên bệnh được gọi là “kẻ giết người thầm lặng”; cách duy nhất để biết là đo huyết áp",
+    "Đau đầu, chảy máu cam, chóng mặt, đỏ mặt thường bị gán cho tăng huyết áp, nhưng ở người tăng huyết áp các dấu hiệu này không hay gặp hơn người thường",
+    "Khi huyết áp rất cao (thường từ 180/120 mmHg): đau đầu dữ dội, đau ngực, khó thở, buồn nôn, nôn, nhìn mờ, lú lẫn, ù tai, tim đập không đều",
+    "Nếu không kiểm soát, bệnh làm tổn thương tim (nhồi máu cơ tim, suy tim, loạn nhịp), não (đột quỵ, sa sút trí tuệ), thận (suy thận) và võng mạc"
+  ],
+  "khi_nao_di_kham": [
+    "Huyết áp cao kèm đau đầu dữ dội, đau ngực, khó thở, nhìn mờ, lú lẫn, co giật hoặc nôn: đi cấp cứu ngay",
+    "Nên đo huyết áp định kỳ dù không có triệu chứng; nhân viên y tế đo nhanh và không đau",
+    "Đo ở nhà thấy cao nhiều lần: đi khám để được đánh giá, vì chẩn đoán không dựa trên một lần đo",
+    "Đã được chẩn đoán: tái khám đúng hẹn"
+  ],
+  "phong_ngua": [
+    "Ăn ít muối: MSD Manual khuyên lý tưởng dưới khoảng 3,75 g muối ăn mỗi ngày (tương đương 1,5 g natri)",
+    "Ăn nhiều rau quả; hạn chế thức ăn nhiều chất béo bão hòa và chất béo chuyển hóa",
+    "Vận động: ít nhất 150 phút mỗi tuần ở mức vừa hoặc 75 phút ở mức mạnh; tập sức cơ từ 2 ngày mỗi tuần; ngồi ít lại",
+    "Giảm cân nếu thừa cân: giảm khoảng 4,5 kg đã có thể làm hạ huyết áp",
+    "Không hút thuốc; hạn chế rượu bia (nữ tối đa 1 đơn vị, nam tối đa 2 đơn vị mỗi ngày)",
+    "Giảm căng thẳng, kiểm soát các bệnh đi kèm như đái tháo đường"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "WHO — Hypertension (fact sheet), 25/09/2025",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/hypertension"
+    },
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — High Blood Pressure, cập nhật 09/2026",
+      "url": "https://www.msdmanuals.com/home/heart-and-blood-vessel-disorders/high-blood-pressure/high-blood-pressure"
+    }
+  ],
+  "da_kiem": true
+}

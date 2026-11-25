@@ -1,0 +1,55 @@
+{
+  "id": "viem-phoi",
+  "ten": "Viêm phổi",
+  "ten_khac": "Pneumonia",
+  "loai": "nhiem-trung",
+  "bo_phan": [
+    "phoi"
+  ],
+  "nguyen_nhan": "Nhiễm trùng các túi khí nhỏ của phổi (phế nang) và mô xung quanh: phế nang chứa đầy mủ và dịch thay vì không khí, làm thở đau và giảm lấy oxy. Hay gặp nhất do vi khuẩn và virus; ít hơn do nấm, ký sinh trùng. Ở trẻ em, vi khuẩn hay gặp nhất là phế cầu (Streptococcus pneumoniae), sau đó là Hib (Haemophilus influenzae týp b); virus hay gặp nhất là virus hợp bào hô hấp (RSV). Cúm hay biến chứng thành viêm phổi do vi khuẩn. Mầm bệnh thường có sẵn ở mũi họng, đi xuống phổi khi hít vào hoặc sặc lúc sức đề kháng giảm; cũng lây qua giọt bắn khi ho, hắt hơi. Người dễ mắc: trẻ nhỏ, người trên 70 tuổi, người suy giảm miễn dịch, suy dinh dưỡng, hút thuốc, nghiện rượu, đái tháo đường, suy tim, bệnh phổi tắc nghẽn mạn tính, người nằm lâu hoặc khó nuốt; sống trong nhà đông người hoặc nhiều khói bếp than củi.",
+  "trieu_chung": [
+    "Người lớn: ho có đờm (đặc hoặc đổi màu) hay gặp nhất; sốt, ớn lạnh, đau ngực, khó thở",
+    "Một số người buồn nôn, tiêu chảy, chán ăn",
+    "Trẻ nhỏ: có thể không sốt, ho không có đờm; dấu hiệu duy nhất có khi chỉ là thở nhanh, rút lõm lồng ngực hoặc bỗng bỏ ăn",
+    "Người cao tuổi: có thể không sốt, không kêu đau ngực; lú lẫn đột ngột có khi là dấu hiệu duy nhất",
+    "Viêm phổi do virus và do vi khuẩn có triệu chứng giống nhau; khò khè hay gặp hơn khi do virus"
+  ],
+  "khi_nao_di_kham": [
+    "Ho kèm sốt, khó thở hoặc đau ngực: đi khám",
+    "Khó thở nhiều, môi tím tái, lú lẫn, lơ mơ: đi cấp cứu",
+    "Trẻ em: thở nhanh, rút lõm lồng ngực, không ăn uống được, co giật, li bì, người lạnh: đưa đi khám ngay",
+    "Người cao tuổi, trẻ nhỏ, người suy giảm miễn dịch hoặc có bệnh tim, phổi: đi khám sớm vì bệnh có thể nặng lên rất nhanh"
+  ],
+  "phong_ngua": [
+    "Bỏ thuốc lá — MSD Manual coi đây là cách phòng viêm phổi hiệu quả nhất",
+    "Tiêm vắc-xin: ở trẻ em, vắc-xin Hib, phế cầu, sởi và ho gà là cách phòng hiệu quả nhất (WHO); người cao tuổi và người nguy cơ cao hỏi bác sĩ về vắc-xin phế cầu, cúm hằng năm, COVID-19, RSV",
+    "Nuôi con hoàn toàn bằng sữa mẹ 6 tháng đầu và cho trẻ ăn đủ chất",
+    "Giảm ô nhiễm không khí trong nhà (dùng bếp sạch), không hút thuốc trong nhà",
+    "Rửa tay bằng xà phòng, giữ vệ sinh, nhất là khi nhà đông người",
+    "Sau mổ ngực hoặc bụng: tập thở sâu và ho khạc theo hướng dẫn"
+  ],
+  "mo_phong": "pho-cau-phe-nang",
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Overview of Pneumonia, cập nhật 09/2026",
+      "url": "https://www.msdmanuals.com/home/lung-and-airway-disorders/pneumonia/overview-of-pneumonia"
+    },
+    {
+      "ten": "WHO — Pneumonia in children (fact sheet), 11/11/2022",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/pneumonia"
+    },
+    {
+      "ten": "StatPearls — Typical Bacterial Pneumonia, cập nhật 16/08/2026 (giai đoạn viêm phổi thùy dùng cho mô phỏng)",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK534295/"
+    },
+    {
+      "ten": "StatPearls — Pneumococcal Pneumonia, cập nhật 29/08/2026",
+      "url": "https://www.ncbi.nlm.nih.gov/books/NBK470537/"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 21.2 Barrier Defenses and the Innate Immune Response (bổ thể, opsonin hóa, bạch cầu trung tính)",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-2-barrier-defenses-and-the-innate-immune-response"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="vi">
+<head><meta charset="utf-8"><title>Kiểm dữ liệu</title>
+<style>body{font:14px/1.5 system-ui,sans-serif;background:#060b16;color:#dbe9f5;padding:16px}.loi{color:#ff4d6a}.cb{color:#ffb36b}</style></head>
+<body>
+<h1>Kiểm dữ liệu</h1>
+<pre id="kq" data-trang-thai="dang-chay">Đang kiểm…</pre>
+<script type="module">
+import { kiemDuLieu } from '../tools/kiem-du-lieu.js';
+const doc = async f => { const r = await fetch('../' + f); if (!r.ok) throw new Error(`không đọc được (mã ${r.status})`); return r.json(); };
+const coFile = async f => (await fetch('../' + f, { method: 'HEAD' })).ok;
+const kq = await kiemDuLieu(doc, coFile);
+const o = document.getElementById('kq');
+o.textContent = [...kq.thong_tin.map(x => '• ' + x), ...kq.canh_bao.map(x => 'CẢNH BÁO ' + x), ...kq.loi.map(x => 'LỖI ' + x),
+  kq.loi.length ? `${kq.loi.length} lỗi.` : 'Không có lỗi.'].join('\n');
+o.dataset.trangThai = kq.loi.length ? 'loi' : 'dat';
+</script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+{
+  "id": "xuong-chi-tren",
+  "ten": "Xương đai vai và chi trên",
+  "ten_khac": "Cingulum pectorale et membrum superius",
+  "he": "xuong",
+  "mo_hinh": "xuong-chi-tren",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Vai và tay; đai vai gồm xương đòn và xương vai, nối chi trên với bộ xương trục.",
+    "so_lieu": [
+      "Đai vai: 2 xương mỗi bên (xương đòn, xương vai)",
+      "Chi trên: 30 xương mỗi bên",
+      "Xương cánh tay: 1",
+      "Xương cẳng tay: 2 (quay, trụ)",
+      "Xương cổ tay: 8",
+      "Xương bàn tay: 5",
+      "Đốt ngón tay: 14 (ngón cái 2, các ngón khác 3)"
+    ]
+  },
+  "chuc_nang": [
+    "Xương đòn là xương dài duy nhất nằm ngang; che chắn thần kinh và mạch máu đi giữa thân và chi trên",
+    "Ổ chảo của xương vai cùng xương cánh tay tạo khớp vai",
+    "Khớp ức–đòn là khớp xương duy nhất nối đai vai với bộ xương trục"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "long-nguc",
+        "mo_ta": "Xương đòn khớp với xương ức (khớp ức–đòn)"
+      },
+      {
+        "id": "co-chi-tren",
+        "mo_ta": "Cơ chi trên bám vào các xương này để cử động"
+      },
+      {
+        "id": "dong-mach-duoi-don",
+        "mo_ta": "Xương đòn che chắn mạch máu đi từ thân ra chi trên"
+      }
+    ],
+    "toan_than": [
+      "Xương đòn là xương hay gãy nhất cơ thể; gãy đầu dưới xương quay (gãy Colles) là gãy cẳng tay hay gặp nhất."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 8.1 The Pectoral Girdle",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-1-the-pectoral-girdle"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 8.2 Bones of the Upper Limb",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-2-bones-of-the-upper-limb"
+    }
+  ],
+  "da_kiem": true
+}

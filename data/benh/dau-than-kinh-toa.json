@@ -1,0 +1,43 @@
+{
+  "id": "dau-than-kinh-toa",
+  "ten": "Đau thần kinh tọa",
+  "ten_khac": "Sciatica / Lumbosacral radiculopathy",
+  "loai": "than-kinh",
+  "bo_phan": [
+    "tuy-song",
+    "cot-song",
+    "co-chi-duoi"
+  ],
+  "nguyen_nhan": "Đau dọc theo dây thần kinh tọa — dây chạy từ cột sống thắt lưng, sau khớp háng, xuống mông, mặt sau đùi rồi tới bàn chân. Dây này được tạo từ nhiều rễ thần kinh sống thoát ra ở vùng thắt lưng – cùng. Nguyên nhân: thoát vị đĩa đệm, gai xương do thoái hóa khớp, hẹp ống sống, sưng do bong gân dây chằng; hiếm hơn: bệnh Paget xương, bệnh thần kinh do đái tháo đường, khối u hoặc ổ máu tụ, áp xe chèn vào dây thần kinh. Ở một số người không tìm được nguyên nhân. Thừa cân làm tăng nguy cơ.",
+  "trieu_chung": [
+    "Thường chỉ một bên",
+    "Đau từ thắt lưng qua mông xuống mặt sau một chân, kiểu nóng rát, nhói, như dao đâm; có thể râm ran như kim châm hoặc âm ỉ",
+    "Tê hoặc yếu ở chân, bàn chân",
+    "Đi bộ, chạy, leo cầu thang, duỗi thẳng chân, đôi khi ho hoặc rặn làm đau tăng; đứng thẳng hoặc duỗi lưng có thể đỡ đau",
+    "Thường tự khỏi"
+  ],
+  "khi_nao_di_kham": [
+    "Mất kiểm soát tiểu tiện hoặc đại tiện: cần được khám ngay vì đuôi ngựa (bó rễ thần kinh cuối tủy) có thể bị chèn ép",
+    "Chân tê, yếu nhiều hoặc yếu tăng dần: đi khám sớm",
+    "Đau kéo dài trên 6 tuần không đỡ: đi khám để được đánh giá thêm"
+  ],
+  "phong_ngua": [
+    "Vận động đều đặn, gồm cả bơi, đi bộ",
+    "Tập khỏe và giãn các cơ thân mình (cơ lưng, cơ bụng)",
+    "Giữ cân nặng hợp lý",
+    "Giữ tư thế tốt khi đứng, ngồi, nằm; tránh ngồi gù, tránh đứng hoặc ngồi lâu một chỗ",
+    "Nâng vật đúng cách: gập ở hông và gối, giữ vật sát người; tránh nâng quá đầu hoặc vừa nâng vừa vặn người"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Sciatica, cập nhật 10/2026",
+      "url": "https://www.msdmanuals.com/home/bone-joint-and-muscle-disorders/low-back-and-neck-pain/sciatica"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 13.4 The Peripheral Nervous System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/13-4-the-peripheral-nervous-system"
+    }
+  ],
+  "da_kiem": true
+}

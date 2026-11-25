@@ -1,0 +1,33 @@
+{
+  "id": "viem-mo-te-bao",
+  "ten": "Viêm mô tế bào (nhiễm khuẩn da)",
+  "ten_khac": "Cellulitis",
+  "loai": "vi-khuan",
+  "bo_phan": [
+    "da"
+  ],
+  "nguyen_nhan": "Nhiễm khuẩn da và mô dưới da, hay gặp nhất do liên cầu (Streptococcus) và tụ cầu vàng (Staphylococcus aureus). Vi khuẩn thường vào qua chỗ da hở nhỏ: trầy xước, vết đâm, vết mổ, bỏng, nấm kẽ chân, vết động vật cắn, bệnh da. Vùng da đang phù nề đặc biệt dễ bị.",
+  "trieu_chung": [
+    "Một vùng da đỏ, đau, ấn đau; hay gặp ở chân nhưng có thể ở bất cứ đâu, thường một bên cơ thể",
+    "Da nóng, sưng, có thể sần như vỏ cam; có thể nổi bóng nước",
+    "Phần lớn người bệnh chỉ thấy hơi mệt",
+    "Hạch gần đó có thể sưng to và đau"
+  ],
+  "khi_nao_di_kham": [
+    "Có vùng da đỏ, sưng, nóng, đau như trên — nên đi khám",
+    "Dấu hiệu nhiễm khuẩn nặng: sốt, ớn lạnh, tim đập nhanh, đau đầu, tụt huyết áp, lú lẫn",
+    "Vùng viêm lan nhanh hoặc sốt cao: cần được điều trị tại bệnh viện"
+  ],
+  "phong_ngua": [
+    "Điều trị các yếu tố làm bệnh dễ tái phát mà bác sĩ xác định được: nấm kẽ chân, béo phì, suy tĩnh mạch, phù, viêm da cơ địa",
+    "Với người hay bị lại ở chân, tất áp lực có thể giúp ngừa tái phát"
+  ],
+  "mo_phong": "vi-khuan-vet-thuong",
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Cellulitis",
+      "url": "https://www.msdmanuals.com/home/skin-disorders/bacterial-skin-infections/cellulitis"
+    }
+  ],
+  "da_kiem": true
+}

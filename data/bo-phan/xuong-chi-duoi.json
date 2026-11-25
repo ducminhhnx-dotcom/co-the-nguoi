@@ -1,0 +1,49 @@
+{
+  "id": "xuong-chi-duoi",
+  "ten": "Xương chi dưới",
+  "ten_khac": "Membrum inferius",
+  "he": "xuong",
+  "mo_hinh": "xuong-chi-duoi",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Đùi, cẳng chân và bàn chân.",
+    "so_lieu": [
+      "Số xương: 30 mỗi chi dưới",
+      "Xương đùi: dài và khỏe nhất cơ thể, bằng khoảng 1/4 chiều cao",
+      "Xương bánh chè: xương vừng lớn nhất cơ thể",
+      "Xương cổ chân: 7 (xương gót lớn nhất)",
+      "Xương bàn chân: 5",
+      "Đốt ngón chân: 14 (ngón cái 2, các ngón khác 3)"
+    ]
+  },
+  "chuc_nang": [
+    "Xương chày chịu trọng lượng ở cẳng chân, dài thứ hai cơ thể",
+    "Xương mác mảnh, không chịu trọng lượng",
+    "Xương bánh chè nằm trong gân cơ tứ đầu đùi, chỉ khớp với đầu dưới xương đùi"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "xuong-chau",
+        "mo_ta": "Nối với bộ xương trục qua xương chậu"
+      },
+      {
+        "id": "co-chi-duoi",
+        "mo_ta": "Cơ tứ đầu đùi duỗi gối qua gân bám vào xương bánh chè"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 8.4 Bones of the Lower Limb",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/8-4-bones-of-the-lower-limb"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.6 Appendicular Muscles of the Pelvic Girdle and Lower Limbs",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs"
+    }
+  ],
+  "da_kiem": true
+}

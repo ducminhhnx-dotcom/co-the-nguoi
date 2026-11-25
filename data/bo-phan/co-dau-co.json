@@ -1,0 +1,41 @@
+{
+  "id": "co-dau-co",
+  "ten": "Cơ đầu và cổ",
+  "ten_khac": "Musculi capitis et colli",
+  "he": "co",
+  "mo_hinh": "co-dau-co",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Mặt, quanh mắt, hàm, lưỡi và cổ.",
+    "so_lieu": [
+      "Cơ vận nhãn ngoài: 6 (4 cơ thẳng, 2 cơ chéo)",
+      "Cơ nhai chính: cơ cắn",
+      "Cơ quanh xương móng: nhóm trên móng và dưới móng"
+    ]
+  },
+  "chuc_nang": [
+    "Cơ biểu cảm bám vào da nên khi co làm da chuyển động (cơ vòng miệng, cơ vòng mắt, cơ chẩm–trán)",
+    "Cơ nhai nâng và kéo xương hàm dưới",
+    "Cơ ức–đòn–chũm nghiêng và xoay đầu; hai bên cùng co thì gập đầu",
+    "Cơ trên móng và dưới móng điều khiển xương móng và thanh quản"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "xuong-so",
+        "mo_ta": "Cơ nhai bám vào xương hàm dưới"
+      }
+    ],
+    "toan_than": [
+      "Cơ bậc thang ở cổ góp phần vào hít vào sâu."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.3 Axial Muscles of the Head, Neck, and Back",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,36 @@
+{
+  "id": "bang-quang",
+  "ten": "Bàng quang",
+  "ten_khac": "Vesica urinaria / Urinary bladder",
+  "he": "tiet-nieu",
+  "mo_hinh": "bang-quang",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Vùng chậu, sau xương mu, trước trực tràng (ở nữ: trước tử cung).",
+    "so_lieu": [
+      "Thể tích chứa: từ gần 0 tới 500–600 mL (người lớn)",
+      "Bắt đầu buồn tiểu: khi chứa khoảng 150 mL (người lớn)"
+    ]
+  },
+  "chuc_nang": [
+    "Chứa nước tiểu từ thận xuống qua niệu quản",
+    "Cơ bàng quang (cơ detrusor) co bóp để tống nước tiểu ra ngoài"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "than",
+        "mo_ta": "Nhận nước tiểu do thận tạo ra"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.2 Gross Anatomy of Urine Transport",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-2-gross-anatomy-of-urine-transport"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,46 @@
+{
+  "id": "dong-mach-than",
+  "ten": "Động mạch thận",
+  "ten_khac": "Arteria renalis",
+  "he": "tuan-hoan",
+  "mo_hinh": "dong-mach-than",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Tách từ động mạch chủ bụng sang hai bên; động mạch thận phải dài hơn trái vì động mạch chủ nằm lệch trái cột sống.",
+    "so_lieu": [
+      "Lượng máu: hai thận nhận khoảng 20–25% cung lượng tim (lúc nghỉ)"
+    ]
+  },
+  "chuc_nang": [
+    "Đưa máu đến thận để lọc"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "than",
+        "mo_ta": "Chia nhánh liên tiếp rồi tới khoảng 1,3 triệu nephron mỗi thận"
+      },
+      {
+        "id": "dong-mach-chu",
+        "mo_ta": "Tách ra từ động mạch chủ bụng"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.3 Gross Anatomy of the Kidney",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-3-gross-anatomy-of-the-kidney"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 25.5 Physiology of Urine Formation",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/25-5-physiology-of-urine-formation"
+    }
+  ],
+  "da_kiem": true
+}

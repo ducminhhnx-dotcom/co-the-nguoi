@@ -1,0 +1,47 @@
+{
+  "id": "thuc-quan",
+  "ten": "Thực quản",
+  "ten_khac": "Oesophagus / Esophagus",
+  "he": "tieu-hoa",
+  "mo_hinh": "thuc-quan",
+  "them_tu_ban": "0.12",
+  "co_ban": {
+    "vi_tri": "Ống cơ nối hầu với dạ dày, nằm sau khí quản, chạy gần như thẳng qua trung thất của lồng ngực, xuyên qua cơ hoành ở lỗ thực quản rồi đổ vào dạ dày.",
+    "so_lieu": [
+      "Chiều dài: khoảng 25 cm (người trưởng thành)",
+      "Nuốt thức ăn đặc: khoảng 4–8 giây",
+      "Nuốt chất lỏng: khoảng 1 giây"
+    ],
+    "mo_ta": "Khi không nuốt, thực quản xẹp lại. Một phần ba trên là cơ vân, một phần ba giữa có cả cơ vân và cơ trơn, một phần ba dưới là cơ trơn. Lớp lót là biểu mô lát tầng không sừng hóa, có tuyến tiết nhầy."
+  },
+  "chuc_nang": [
+    "Đưa viên thức ăn từ hầu xuống dạ dày bằng các làn sóng nhu động bắt đầu từ phần trên thực quản",
+    "Chất nhầy tiết ra bôi trơn thực quản và thức ăn",
+    "Cơ thắt trên điều khiển thức ăn đi từ hầu vào thực quản",
+    "Cơ thắt dưới mở cho thức ăn vào dạ dày rồi đóng lại, ngăn axit dạ dày trào ngược"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "da-day",
+        "mo_ta": "Đổ thức ăn vào dạ dày qua cơ thắt dưới thực quản"
+      },
+      {
+        "id": "khi-quan",
+        "mo_ta": "Nằm ngay sau khí quản; khi nuốt, nắp thanh quản đậy lại để thức ăn không lọt vào đường thở"
+      }
+    ],
+    "toan_than": [
+      "Cơ hoành bao quanh cơ thắt dưới thực quản và giúp nó đóng kín khi không nuốt.",
+      "Nếu cơ thắt dưới đóng không kín, chất trong dạ dày trào ngược lên gây ợ nóng hoặc bệnh trào ngược dạ dày – thực quản."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.3 The Mouth, Pharynx, and Esophagus",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-3-the-mouth-pharynx-and-esophagus"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cuong-giap",
+  "ten": "Cường giáp",
+  "ten_khac": "Hyperthyroidism / Graves disease",
+  "loai": "noi-tiet",
+  "bo_phan": [
+    "tuyen-giap",
+    "tim"
+  ],
+  "nguyen_nhan": "Tuyến giáp hoạt động quá mức, tạo nhiều hormone giáp làm các chức năng cơ thể tăng tốc. Nguyên nhân hay gặp nhất: bệnh Graves (bệnh tự miễn, kháng thể kích thích tuyến giáp, thường có tính gia đình, hầu như luôn làm tuyến giáp to); bướu giáp đa nhân hoặc một nhân tự tiết hormone (hay gặp hơn khi lớn tuổi); viêm tuyến giáp. Ngoài ra: dùng quá nhiều hormone giáp, một số thuốc, hiếm khi do tuyến yên. Gặp ở khoảng 1% người dân Mỹ, hay gặp ở phụ nữ 20–50 tuổi.",
+  "trieu_chung": [
+    "Tuyến giáp to (bướu cổ); có thể đau khi viêm tuyến giáp",
+    "Tim đập nhanh, hồi hộp, huyết áp tăng",
+    "Nóng bức, vã nhiều mồ hôi, run tay",
+    "Bồn chồn, lo âu, mất ngủ",
+    "Sụt cân dù ăn nhiều; đi ngoài nhiều lần",
+    "Rối loạn kinh nguyệt ở phụ nữ",
+    "Bệnh Graves: mắt lồi, sưng mí, chảy nước mắt, sợ ánh sáng, nhìn đôi; da cẳng chân dày như vỏ cam",
+    "Người cao tuổi có thể chỉ thấy mệt, sụt cân, lú lẫn, trầm cảm; dễ bị rung nhĩ và các bệnh tim khác"
+  ],
+  "khi_nao_di_kham": [
+    "Tim nhanh, run tay, sụt cân, nóng bức, vã mồ hôi kéo dài, hoặc cổ to ra: đi khám — bác sĩ thường xét nghiệm TSH trong máu",
+    "Mắt lồi, nhìn đôi, mí mắt không khép kín: đi khám sớm",
+    "Người đang cường giáp mà sốt, tim đập cực nhanh hoặc loạn nhịp, rất yếu, vật vã, lú lẫn (nhất là khi nhiễm trùng, chấn thương, phẫu thuật, mang thai, sinh nở hoặc tự ngừng điều trị): có thể là cơn bão giáp — cấp cứu ngay"
+  ],
+  "phong_ngua": [
+    "Phần lớn nguyên nhân (bệnh tự miễn, nhân giáp) chưa phòng được",
+    "Không tự ý dùng hormone giáp hay thuốc có iốt liều cao; người có nhân giáp nên hỏi bác sĩ trước khi chụp có thuốc cản quang chứa iốt",
+    "Khám và xét nghiệm sớm khi có triệu chứng để tránh hại tim"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Hyperthyroidism, cập nhật 10/2026",
+      "url": "https://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/thyroid-gland-disorders/hyperthyroidism"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 17.4 The Thyroid Gland",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland"
+    }
+  ],
+  "da_kiem": true
+}

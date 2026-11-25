@@ -1,0 +1,47 @@
+{
+  "id": "tinh-mach-cua",
+  "ten": "Tĩnh mạch cửa",
+  "ten_khac": "Vena portae hepatis",
+  "he": "tuan-hoan",
+  "mo_hinh": "tinh-mach-cua",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Ngắn, bắt đầu ngang đốt sống L2 nơi tĩnh mạch mạc treo tràng trên gặp tĩnh mạch lách, chạy vào gan.",
+    "so_lieu": [
+      "Nguồn máu: dạ dày, ruột non, ruột già, lách",
+      "Nơi kết thúc: các xoang mao mạch trong gan"
+    ]
+  },
+  "chuc_nang": [
+    "Đưa máu giàu chất dinh dưỡng (và cả thuốc, độc chất hấp thụ từ ruột) về gan xử lý trước"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "gan",
+        "mo_ta": "Đổ máu vào gan; cấp cho gan nhiều oxy hơn động mạch gan"
+      },
+      {
+        "id": "ruot-non",
+        "mo_ta": "Nhận máu mang chất dinh dưỡng từ ruột"
+      },
+      {
+        "id": "lach",
+        "mo_ta": "Nhận máu từ lách qua tĩnh mạch lách"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.6 Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    }
+  ],
+  "da_kiem": true
+}

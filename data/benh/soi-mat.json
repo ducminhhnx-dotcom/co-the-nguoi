@@ -1,0 +1,38 @@
+{
+  "id": "soi-mat",
+  "ten": "Sỏi mật",
+  "ten_khac": "Gallstones / Cholelithiasis",
+  "loai": "tieu-hoa",
+  "bo_phan": [
+    "tui-mat",
+    "gan",
+    "tuy"
+  ],
+  "nguyen_nhan": "Các khối rắn hình thành trong túi mật. Ở các nước phương Tây phần lớn là sỏi cholesterol (cholesterol dư trong mật kết tinh, vón lại và lớn dần); ngoài ra có sỏi sắc tố (bilirubin). Mật ứ lâu trong túi mật (ví dụ khi mang thai) có thể tạo bùn mật. Yếu tố nguy cơ: nữ giới, lớn tuổi, béo phì, ít vận động, đái tháo đường và tiền đái tháo đường, mỡ máu cao, bệnh tim do xơ vữa, tiền sử gia đình. Ở Mỹ ước tính khoảng 14% người trên 20 tuổi có sỏi mật.",
+  "trieu_chung": [
+    "Khoảng 80% người có sỏi không có triệu chứng trong nhiều năm, thậm chí suốt đời",
+    "Cơn đau quặn mật: đau bụng trên, thường bên phải dưới bờ sườn; tăng dần trong 15 phút đến 1 giờ, giữ nguyên thường dưới 6 giờ (đôi khi tới 12 giờ) rồi giảm dần",
+    "Buồn nôn, nôn khi đau; một bữa ăn no có thể khởi phát cơn đau (đồ ăn nhiều mỡ không gây đau nhiều hơn đồ ăn khác)",
+    "Sỏi mật không gây ợ hơi hay đầy bụng",
+    "Biến chứng: viêm túi mật (thường sốt); sỏi tắc ống mật gây sốt, rét run, vàng da vàng mắt (nhiễm trùng đường mật — nặng); viêm tụy"
+  ],
+  "khi_nao_di_kham": [
+    "Đau dữ dội vùng bụng trên bên phải kéo dài: đi khám hoặc đi cấp cứu",
+    "Đau bụng kèm sốt, rét run, vàng da hoặc vàng mắt: đi cấp cứu ngay vì có thể nhiễm trùng đường mật",
+    "Đau bụng trên dữ dội không đỡ: đi cấp cứu vì sỏi chặn ống tụy có thể gây viêm tụy",
+    "Người già và người đái tháo đường có thể đau không rõ chỗ: nên đi khám sớm khi đau bụng bất thường"
+  ],
+  "phong_ngua": [
+    "Giữ cân nặng hợp lý, vận động đều đặn (béo phì và ít vận động là yếu tố nguy cơ)",
+    "Kiểm soát đường máu và mỡ máu",
+    "Lưu ý: khi sỏi đã gây đau, chỉ đổi sang ăn ít mỡ không giúp khỏi bệnh — cần đi khám"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Gallstones, cập nhật 09/2026",
+      "url": "https://www.msdmanuals.com/home/liver-and-gallbladder-disorders/gallbladder-and-bile-duct-disorders/gallstones"
+    }
+  ],
+  "da_kiem": true
+}

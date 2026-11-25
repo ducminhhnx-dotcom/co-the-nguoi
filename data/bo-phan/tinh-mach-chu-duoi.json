@@ -1,0 +1,41 @@
+{
+  "id": "tinh-mach-chu-duoi",
+  "ten": "Tĩnh mạch chủ dưới",
+  "ten_khac": "Vena cava inferior",
+  "he": "tuan-hoan",
+  "mo_hinh": "tinh-mach-chu-duoi",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Trong ổ bụng, sau phúc mạc, chạy song song động mạch chủ bụng; đi lên đổ vào tâm nhĩ phải.",
+    "so_lieu": [
+      "Vùng dẫn lưu: phần cơ thể dưới cơ hoành (bụng, chậu, hai chân)",
+      "Loại máu: nghèo oxy"
+    ]
+  },
+  "chuc_nang": [
+    "Đưa máu nghèo oxy từ phần cơ thể dưới cơ hoành về tim"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tim",
+        "mo_ta": "Đổ vào tâm nhĩ phải"
+      }
+    ],
+    "toan_than": [
+      "Áp lực trong tĩnh mạch thấp; co cơ chân (bơm cơ xương) cùng các van một chiều trong tĩnh mạch giúp đẩy máu ngược trọng lực về tim."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.2 Blood Flow, Blood Pressure, and Resistance",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+    }
+  ],
+  "da_kiem": true
+}

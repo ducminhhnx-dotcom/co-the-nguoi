@@ -1,0 +1,40 @@
+{
+  "id": "suy-giap",
+  "ten": "Suy giáp",
+  "ten_khac": "Hypothyroidism",
+  "loai": "noi-tiet",
+  "bo_phan": [
+    "tuyen-giap",
+    "tuyen-yen"
+  ],
+  "nguyen_nhan": "Tuyến giáp hoạt động kém, tạo không đủ hormone giáp nên các chức năng cơ thể chậm lại. Nguyên nhân hay gặp: viêm tuyến giáp Hashimoto (bệnh tự miễn phá hủy dần tuyến giáp); thiếu iốt kéo dài trong ăn uống — nguyên nhân hàng đầu ở những nước không bổ sung iốt vào muối; các dạng viêm tuyến giáp khác (thường tạm thời, ví dụ sau sinh); điều trị bệnh tuyến giáp trước đó; xạ trị vùng đầu cổ. Hiếm hơn: tuyến yên không tiết đủ TSH. Hay gặp ở người lớn tuổi, nhất là phụ nữ (khoảng 10% phụ nữ cao tuổi), nhưng có thể gặp ở mọi tuổi.",
+  "trieu_chung": [
+    "Triệu chứng kín đáo, xuất hiện từ từ",
+    "Mệt mỏi, tăng cân, táo bón, sợ lạnh, chuột rút",
+    "Mặt và mí mắt phù, nét mặt kém biểu cảm, giọng khàn, nói chậm",
+    "Tóc thưa, khô, thô; da khô, dày, bong vảy; rụng phần ngoài lông mày",
+    "Mạch chậm; hay quên, lú lẫn, dễ nhầm với trầm cảm hoặc sa sút trí tuệ ở người cao tuổi",
+    "Rối loạn kinh nguyệt ở phụ nữ; cholesterol máu thường tăng"
+  ],
+  "khi_nao_di_kham": [
+    "Mệt, tăng cân, sợ lạnh, táo bón, da khô kéo dài không rõ lý do: đi khám — bác sĩ thường xét nghiệm TSH trong máu",
+    "Người cao tuổi hay quên, chậm chạp: nên được kiểm tra tuyến giáp vì triệu chứng dễ bị nhầm",
+    "Người đang suy giáp mà thở chậm, co giật, lơ mơ hoặc rất lạnh người (nhất là sau nhiễm lạnh, nhiễm trùng, chấn thương, phẫu thuật): có thể là hôn mê phù niêm — cấp cứu ngay"
+  ],
+  "phong_ngua": [
+    "Dùng muối iốt để đủ iốt trong ăn uống (thiếu iốt là nguyên nhân phòng được)",
+    "Phần lớn các nguyên nhân khác (bệnh tự miễn) chưa phòng được; phát hiện sớm bằng khám và xét nghiệm khi có triệu chứng"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Hypothyroidism, cập nhật 10/2026",
+      "url": "https://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/thyroid-gland-disorders/hypothyroidism"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 17.4 The Thyroid Gland",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-4-the-thyroid-gland"
+    }
+  ],
+  "da_kiem": true
+}

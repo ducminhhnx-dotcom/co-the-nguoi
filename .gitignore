@@ -1,0 +1,8 @@
+# Tệp sinh ra khi chạy Python, tệp tạm
+__pycache__/
+*.pyc
+*.tmp
+# Cài đặt riêng của Claude Code trên máy (không đưa lên)
+.claude/settings.local.json
+# Dữ liệu gốc BodyParts3D (136 MB) để ngoài dự án; nếu lỡ chép vào đây thì không đưa lên
+*.zip

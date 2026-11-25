@@ -1,0 +1,50 @@
+{
+  "id": "co-chi-duoi",
+  "ten": "Cơ đai chậu và chi dưới",
+  "ten_khac": "Musculi membri inferioris",
+  "he": "co",
+  "mo_hinh": "co-chi-duoi",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Mông, đùi, cẳng chân và bàn chân.",
+    "so_lieu": [
+      "Cơ tứ đầu đùi: 4 cơ (thẳng đùi, rộng ngoài, rộng trong, rộng giữa)",
+      "Nhóm cơ khoeo: 3 cơ",
+      "Cơ mông lớn nhất: cơ mông lớn"
+    ]
+  },
+  "chuc_nang": [
+    "Cơ tứ đầu đùi duỗi và giữ vững khớp gối; nhóm cơ khoeo gập gối và duỗi đùi",
+    "Cơ mông lớn hạ gối và đưa đùi ra sau",
+    "Cơ thắt lưng chậu (cơ thắt lưng lớn và cơ chậu) nâng gối lên ở khớp hông",
+    "Cơ bắp chân (cơ bụng chân, cơ dép) bám vào gân gót, giúp giữ người đứng thẳng",
+    "Các cơ nội tại bàn chân nâng đỡ vòm bàn chân"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "xuong-chi-duoi",
+        "mo_ta": "Bám vào xương chi dưới để cử động"
+      },
+      {
+        "id": "xuong-chau",
+        "mo_ta": "Bám vào khung chậu"
+      }
+    ],
+    "toan_than": [
+      "Cơ tứ đầu đùi và nhóm cơ khoeo là một cặp đối vận ở khớp gối: một bên duỗi gối, bên kia gập gối."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.6 Appendicular Muscles of the Pelvic Girdle and Lower Limbs",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-6-appendicular-muscles-of-the-pelvic-girdle-and-lower-limbs"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.1 Interactions of Skeletal Muscles, Their Fascicle Arrangement, and Their Lever Systems",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-1-interactions-of-skeletal-muscles-their-fascicle-arrangement-and-their-lever-systems"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,39 @@
+{
+  "id": "dong-mach-duoi-don",
+  "ten": "Động mạch dưới đòn – cánh tay",
+  "ten_khac": "Arteria subclavia / brachialis",
+  "he": "tuan-hoan",
+  "mo_hinh": "dong-mach-duoi-don",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Từ dưới xương đòn ra nách (thành động mạch nách), rồi xuống cánh tay (thành động mạch cánh tay).",
+    "so_lieu": [
+      "Huyết áp: khoảng 120/80 mmHg là huyết áp bình thường (người lớn)",
+      "Đo huyết áp: thường đo ở động mạch cánh tay"
+    ]
+  },
+  "chuc_nang": [
+    "Cấp máu cho tay, ngực, vai, lưng và một phần hệ thần kinh trung ương (qua động mạch đốt sống)"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "dong-mach-chu",
+        "mo_ta": "Bên trái tách thẳng từ quai động mạch chủ; bên phải tách từ thân cánh tay đầu"
+      }
+    ],
+    "toan_than": []
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.2 Blood Flow, Blood Pressure, and Resistance",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+    }
+  ],
+  "da_kiem": true
+}

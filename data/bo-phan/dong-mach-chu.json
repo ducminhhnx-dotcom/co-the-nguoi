@@ -1,0 +1,59 @@
+{
+  "id": "dong-mach-chu",
+  "ten": "Động mạch chủ",
+  "ten_khac": "Aorta",
+  "he": "tuan-hoan",
+  "mo_hinh": "dong-mach-chu",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Ra từ tâm thất trái, đi lên khoảng 5 cm, uốn cong (quai) rồi đi xuống bụng; chia đôi thành hai động mạch chậu chung ngang đốt sống thắt lưng 4.",
+    "so_lieu": [
+      "Đoạn lên: dài khoảng 5 cm",
+      "Loại máu: giàu oxy"
+    ],
+    "mo_ta": "Động mạch lớn nhất cơ thể."
+  },
+  "chuc_nang": [
+    "Đưa máu giàu oxy từ tim đi tới hầu hết các mô của cơ thể",
+    "Thành đàn hồi giãn ra khi tim co, co hồi lại sau đó, giữ áp lực đẩy máu đi liên tục"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tim",
+        "mo_ta": "Nhận máu từ tâm thất trái qua van động mạch chủ"
+      },
+      {
+        "id": "dong-mach-canh",
+        "mo_ta": "Quai động mạch chủ tách động mạch cảnh chung (bên phải qua thân cánh tay đầu)"
+      },
+      {
+        "id": "dong-mach-duoi-don",
+        "mo_ta": "Quai động mạch chủ tách động mạch dưới đòn (bên phải qua thân cánh tay đầu)"
+      },
+      {
+        "id": "dong-mach-than",
+        "mo_ta": "Động mạch chủ bụng tách hai động mạch thận"
+      }
+    ],
+    "toan_than": [
+      "Máu ở đây chảy theo nhịp đập (mạch): thành mạch giãn khi tim tống máu rồi co hồi — xem các hạt đỏ."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.1 Structure and Function of Blood Vessels",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.2 Blood Flow, Blood Pressure, and Resistance",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-2-blood-flow-blood-pressure-and-resistance"
+    }
+  ],
+  "da_kiem": true
+}

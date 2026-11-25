@@ -1,0 +1,60 @@
+{
+  "id": "phoi",
+  "ten": "Phổi",
+  "ten_khac": "Pulmo / Lung",
+  "he": "ho-hap",
+  "mo_hinh": "phoi",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Hai bên lồng ngực; phổi phải 3 thùy, phổi trái 2 thùy, có khuyết tim nhường chỗ cho tim.",
+    "so_lieu": [
+      "Diện tích trao đổi khí: khoảng 70 m² (người trưởng thành)",
+      "Nhịp thở: 12–18 lần/phút (người lớn và thiếu niên, lúc nghỉ)",
+      "Nhịp thở trẻ dưới 1 tuổi: 30–60 lần/phút"
+    ]
+  },
+  "chuc_nang": [
+    "Trao đổi khí: lấy oxy vào máu, thải CO₂ ra ngoài qua phế nang",
+    "Góp phần giữ độ pH của máu: thở nhanh, sâu hơn khi CO₂ tăng để thải bớt CO₂"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tim",
+        "mo_ta": "Tim phải bơm máu nghèo oxy lên phổi; máu nhận oxy xong về tim trái"
+      },
+      {
+        "id": "dong-mach-phoi",
+        "mo_ta": "Mang máu nghèo oxy từ tim tới phổi"
+      },
+      {
+        "id": "tinh-mach-phoi",
+        "mo_ta": "Mang máu giàu oxy từ phổi về tim"
+      },
+      {
+        "id": "khi-quan",
+        "mo_ta": "Dẫn không khí vào phổi"
+      }
+    ],
+    "toan_than": [
+      "Hai tâm thất bơm cùng một lượng máu, nên toàn bộ lượng máu tim bơm ra cũng đi qua phổi — đó là vòng tuần hoàn nhỏ.",
+      "CO₂ trong máu tăng làm pH giảm; trung khu hô hấp ở hành não đáp lại bằng cách tăng nhịp và độ sâu nhịp thở để thải CO₂, đưa pH về ổn định."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 22.2 The Lungs",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-2-the-lungs"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 22.3 The Process of Breathing",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/22-3-the-process-of-breathing"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 19.1 Heart Anatomy",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy"
+    }
+  ],
+  "da_kiem": true
+}

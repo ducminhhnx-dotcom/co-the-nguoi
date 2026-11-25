@@ -1,0 +1,54 @@
+{
+  "id": "lach",
+  "ten": "Lách",
+  "ten_khac": "Splen / Spleen",
+  "he": "mien-dich",
+  "mo_hinh": "lach",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Bên trái ổ bụng, gắn vào bờ ngoài dạ dày; nằm ngay trên góc đại tràng trái.",
+    "so_lieu": [
+      "Chiều dài: khoảng 12 cm",
+      "Đời sống hồng cầu: tới khoảng 120 ngày"
+    ]
+  },
+  "chuc_nang": [
+    "Lọc máu: đại thực bào và tế bào tua loại bỏ vi khuẩn và hồng cầu già, hỏng",
+    "Cơ quan lympho thứ phát chứa nhiều tế bào lympho, là nơi diễn ra đáp ứng miễn dịch với mầm bệnh trong máu"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tinh-mach-cua",
+        "mo_ta": "Máu từ lách theo tĩnh mạch lách đổ về tĩnh mạch cửa rồi về gan"
+      },
+      {
+        "id": "gan",
+        "mo_ta": "Cùng gan (và tủy xương) loại bỏ hồng cầu già"
+      }
+    ],
+    "toan_than": [
+      "Lách được gọi là \"bộ lọc của máu\": nhờ mạng mạch dày đặc và đại thực bào, nó bắt mầm bệnh lưu hành trong máu."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 21.1 Anatomy of the Lymphatic and Immune Systems",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/21-1-anatomy-of-the-lymphatic-and-immune-systems"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 18.3 Erythrocytes",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/18-3-erythrocytes"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.6 Accessory Organs in Digestion: The Liver, Pancreas, and Gallbladder",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-6-accessory-organs-in-digestion-the-liver-pancreas-and-gallbladder"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.5 The Small and Large Intestines",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-5-the-small-and-large-intestines"
+    }
+  ],
+  "da_kiem": true
+}

@@ -1,0 +1,64 @@
+{
+  "id": "cot-song",
+  "ten": "Cột sống",
+  "ten_khac": "Columna vertebralis / Vertebral column",
+  "he": "xuong",
+  "mo_hinh": "cot-song",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Dọc giữa lưng, từ nền sọ xuống xương cụt.",
+    "so_lieu": [
+      "Đốt sống: 24 (người lớn), cộng xương cùng và xương cụt",
+      "Đốt cổ: 7 (C1–C7)",
+      "Đốt ngực: 12 (T1–T12)",
+      "Đốt thắt lưng: 5 (L1–L5)",
+      "Xương cùng: do 5 đốt cùng dính lại",
+      "Xương cụt: do 4 đốt cụt dính lại",
+      "Đĩa gian đốt: chiếm khoảng 25% chiều cao từ đỉnh khung chậu tới nền sọ"
+    ]
+  },
+  "chuc_nang": [
+    "Nâng đỡ đầu, cổ và thân",
+    "Bảo vệ tủy sống chạy trong các lỗ đốt sống",
+    "4 đường cong giúp cột sống vững, linh hoạt và giảm xóc"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "xuong-so",
+        "mo_ta": "Đỡ đầu"
+      },
+      {
+        "id": "long-nguc",
+        "mo_ta": "Các xương sườn khớp phía sau với đốt sống ngực T1–T12"
+      },
+      {
+        "id": "xuong-chau",
+        "mo_ta": "Xương cùng khớp với hai xương chậu"
+      },
+      {
+        "id": "co-than",
+        "mo_ta": "Nhóm cơ dựng sống là cơ duỗi chính của cột sống"
+      }
+    ],
+    "toan_than": [
+      "Đĩa gian đốt có nhân nhầy giàu nước bên trong; thoát vị đĩa đệm hay gặp nhất ở L4/L5 hoặc L5/S1."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 7.3 The Vertebral Column",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-3-the-vertebral-column"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 7.1 Divisions of the Skeletal System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/7-1-divisions-of-the-skeletal-system"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 11.3 Axial Muscles of the Head, Neck, and Back",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/11-3-axial-muscles-of-the-head-neck-and-back"
+    }
+  ],
+  "da_kiem": true
+}

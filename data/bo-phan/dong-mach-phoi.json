@@ -1,0 +1,48 @@
+{
+  "id": "dong-mach-phoi",
+  "ten": "Động mạch phổi",
+  "ten_khac": "Truncus pulmonalis / Arteria pulmonalis",
+  "he": "tuan-hoan",
+  "mo_hinh": "dong-mach-phoi",
+  "them_tu_ban": "0.1",
+  "co_ban": {
+    "vi_tri": "Thân động mạch phổi ra từ tâm thất phải, chia thành động mạch phổi phải và trái đi vào hai phổi.",
+    "so_lieu": [
+      "Loại máu: nghèo oxy (vì thế tô màu xanh)"
+    ]
+  },
+  "chuc_nang": [
+    "Đưa máu nghèo oxy lên phổi để nhận oxy"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "tim",
+        "mo_ta": "Nhận máu từ tâm thất phải qua van động mạch phổi"
+      },
+      {
+        "id": "phoi",
+        "mo_ta": "Chia nhánh nhỏ dần thành mao mạch quanh phế nang"
+      }
+    ],
+    "toan_than": [
+      "\"Động mạch\" là mạch đưa máu đi ra từ tim, không phải mạch chứa máu đỏ. Sau khi sinh, thân động mạch phổi và các nhánh của nó là những động mạch duy nhất chứa máu nghèo oxy."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.5 Circulatory Pathways",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-5-circulatory-pathways"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 19.1 Heart Anatomy",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/19-1-heart-anatomy"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 20.1 Structure and Function of Blood Vessels",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/20-1-structure-and-function-of-blood-vessels"
+    }
+  ],
+  "da_kiem": true
+}

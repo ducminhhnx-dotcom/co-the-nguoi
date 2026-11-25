@@ -1,0 +1,54 @@
+{
+  "id": "da",
+  "ten": "Da",
+  "ten_khac": "Cutis / Skin",
+  "he": "he-da",
+  "mo_hinh": "da",
+  "them_tu_ban": "0.4",
+  "co_ban": {
+    "vi_tri": "Bao phủ toàn bộ mặt ngoài cơ thể.",
+    "so_lieu": [
+      "Số lớp: 3 (biểu bì, bì, hạ bì)",
+      "Lớp sừng: thường 15–30 lớp tế bào, thay mới hoàn toàn trong khoảng 4 tuần",
+      "Mồ hôi không cảm nhận: khoảng 500 mL/ngày",
+      "Mồ hôi khi vận động: 0,7–1,5 lít/giờ (người đang vận động)"
+    ],
+    "mo_ta": "Da cùng các phần phụ tạo thành hệ da (hệ vỏ bọc). Lớp biểu bì không có mạch máu."
+  },
+  "chuc_nang": [
+    "Bảo vệ cơ thể khỏi vi sinh vật, hóa chất và tác động môi trường; là tuyến phòng vệ đầu tiên",
+    "Ngăn mất nước nhờ keratin và glycolipid ở lớp sừng",
+    "Cảm giác: có thụ thể nhận biết chạm, nhiệt độ bề mặt và đau",
+    "Điều hòa thân nhiệt: tiết mồ hôi để làm mát; tiểu động mạch ở lớp bì giãn để tỏa nhiệt, co để giữ nhiệt",
+    "Tổng hợp vitamin D khi tiếp xúc tia UV"
+  ],
+  "tuong_tac": {
+    "bo_phan": [
+      {
+        "id": "gan",
+        "mo_ta": "Gan và thận chuyển vitamin D do da tạo ra sang dạng hoạt động"
+      },
+      {
+        "id": "than",
+        "mo_ta": "Thận và gan chuyển vitamin D do da tạo ra sang dạng hoạt động"
+      }
+    ],
+    "toan_than": [
+      "Vitamin D cần cho việc hấp thu canxi và phospho.",
+      "Tế bào Langerhans ở biểu bì và các thực bào ở lớp bì giúp chống vi khuẩn đã vượt qua da.",
+      "Mồ hôi tạo dermcidin có tính kháng khuẩn, hạn chế vi khuẩn sinh sôi quá mức trên da."
+    ]
+  },
+  "benh": [],
+  "nguon": [
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 5.1 Layers of the Skin",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-1-layers-of-the-skin"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 5.3 Functions of the Integumentary System",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/5-3-functions-of-the-integumentary-system"
+    }
+  ],
+  "da_kiem": true
+}
