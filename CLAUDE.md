@@ -195,7 +195,8 @@ export default {
 | — | Đưa lên GitHub: kho mã `ducminhhnx-dotcom/co-the-nguoi` (công khai) và GitHub Pages | Xong 25/11/2026 |
 | 0.17 | Bệnh đợt 3: đột quỵ, xơ vữa động mạch, loãng xương, loét dạ dày – tá tràng, ung thư đại trực tràng | Xong 25/11/2026 |
 | 0.18 | Mô phỏng bệnh: insulin và đường máu (bình thường, týp 1, týp 2); xơ vữa và cục máu đông; nhóm nút "Bệnh diễn tiến" | Xong 25/11/2026 |
-| Sau đó | Thêm bệnh (lách, cơ, thượng thận, tuyến ức…), dây thần kinh ngoại biên | **Làm tiếp theo** (Minh chọn) |
+| 0.19 | Mô phỏng loét dạ dày – tá tràng: H. pylori làm mỏng lớp nhầy, axit ăn mòn thành trợt rồi ổ loét, chảy máu, lành | Xong 25/11/2026 |
+| Sau đó | Mô phỏng cho các bệnh còn lại (tăng huyết áp, sỏi thận, vòng điều hòa tuyến giáp…); thêm bệnh (lách, cơ, thượng thận, tuyến ức…), dây thần kinh ngoại biên | **Làm tiếp theo** (Minh chọn) |
 
 ---
 

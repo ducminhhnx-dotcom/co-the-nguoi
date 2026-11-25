@@ -470,3 +470,20 @@
 - Bệnh Đái tháo đường và Nhồi máu cơ tim thêm nguồn dùng cho mô phỏng.
 - `tests/kiem-tra.py` chụp thêm `mo-phong-insulin.png`, `mo-phong-xo-vua.png`, `dien-thoai-xo-vua.png`; kiểm có chữ "Bệnh diễn tiến".
 - `data/index.json`: `phien_ban` = "0.18". Kiểm thử ĐẠT: 10 mô phỏng.
+
+## Bản 0.19 — 25/11/2026 — Mô phỏng loét dạ dày
+
+**Đã làm**
+- Minh chọn mô phỏng loét dạ dày làm trước.
+- Mô phỏng `src/sims/loet-da-day.js` (nút "Loét dạ dày", nhóm "Bệnh diễn tiến"): lát cắt thành dạ dày từ lòng dạ dày xuống lớp cơ.
+  - Bình thường: lớp nhầy giàu bicarbonate trung hòa axit trước khi chạm tế bào.
+  - H. pylori bơi trong lớp nhầy, tạo amoniac, làm mỏng lớp nhầy; axit lọt qua, niêm mạc viêm, bạch cầu kéo tới, trợt nông.
+  - Ổ loét khoét xuyên lớp cơ niêm xuống lớp dưới niêm mạc; rồi ăn tới mạch máu gây chảy máu; cuối cùng lành, để lại sẹo.
+  - Làm sáng dạ dày, ruột non (tá tràng) trên hình 3D theo giai đoạn.
+  - Nguồn: OpenStax A&P 2e mục 23.4 (pH 1,5–3,5; biểu mô thay mới sau 3–6 ngày; trợt nông thường tự lành); MSD Manual chuyên môn — Peptic Ulcer Disease (độ sâu ổ loét, kích thước, tái phát 3 năm <10% so với >50%), Helicobacter pylori Infection (amoniac bào mòn lớp nhầy; 10% người nhiễm bị loét so với 1%; 30–40% ở Bắc Mỹ), Overview of Acid Secretion (hàng rào niêm mạc, thuốc chống viêm không steroid).
+- Bệnh Loét dạ dày – tá tràng: `mo_phong` = "loet-da-day", thêm 4 nguồn "(dùng cho mô phỏng)".
+- `tests/kiem-tra.py` chụp thêm `mo-phong-loet-da-day.png`, `dien-thoai-loet-da-day.png`. Lần chạy đầu nhãn "niêm mạc" và "lớp cơ niêm" đè nhau, bạch cầu trôi vào trong ổ loét; đã sửa.
+- `data/index.json`: `phien_ban` = "0.19". Kiểm thử ĐẠT: 11 mô phỏng.
+
+**Còn dở**
+- Các bệnh còn chưa có mô phỏng: tăng huyết áp, sỏi thận, xơ gan, trào ngược, loãng xương, suy giáp/cường giáp, sỏi mật, đau thần kinh tọa, ung thư đại trực tràng.

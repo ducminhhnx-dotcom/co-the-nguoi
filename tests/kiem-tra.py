@@ -106,7 +106,9 @@ def main():
                                   ("benh-dot-quy", 1280, 900, "index.html?chup#benh/dot-quy", None),
                                   ("mo-phong-insulin", 1280, 900, "index.html?chup&tua=13#mo-phong/insulin-duong-mau", None),
                                   ("mo-phong-xo-vua", 1280, 900, "index.html?chup&tua=15#mo-phong/xo-vua-cuc-mau-dong", None),
-                                  ("dien-thoai-xo-vua", 520, 844, "tests/khung-dien-thoai.html?chup&tua=9#mo-phong/xo-vua-cuc-mau-dong", 390)]:
+                                  ("dien-thoai-xo-vua", 520, 844, "tests/khung-dien-thoai.html?chup&tua=9#mo-phong/xo-vua-cuc-mau-dong", 390),
+                                  ("mo-phong-loet-da-day", 1280, 900, "index.html?chup&tua=14#mo-phong/loet-da-day", None),
+                                  ("dien-thoai-loet-da-day", 520, 844, "tests/khung-dien-thoai.html?chup&tua=18#mo-phong/loet-da-day", 390)]:
         p = os.path.join(GOC, "tests", "anh", f"{ten}.png")
         if os.path.exists(p): os.remove(p)
         chrome(f"--screenshot={p}", f"--window-size={w},{h}", "--timeout=90000", f"{url}/{trang}", cho=0)

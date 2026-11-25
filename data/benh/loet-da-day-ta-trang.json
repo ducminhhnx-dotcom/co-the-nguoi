@@ -28,11 +28,27 @@
     "Hạn chế rượu bia",
     "Khi được chẩn đoán nhiễm H. pylori: điều trị đủ theo bác sĩ — diệt được vi khuẩn thì loét chỉ tái phát ở khoảng 10% người, so với 50% nếu không diệt được"
   ],
-  "mo_phong": null,
+  "mo_phong": "loet-da-day",
   "nguon": [
     {
       "ten": "MSD Manual (bản cho người đọc phổ thông) — Peptic Ulcer Disease, cập nhật 09/2026",
       "url": "https://www.msdmanuals.com/home/digestive-disorders/gastritis-and-peptic-ulcer-disease/peptic-ulcer-disease"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 23.4 Dạ dày (dùng cho mô phỏng)",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/23-4-the-stomach"
+    },
+    {
+      "ten": "MSD Manual (bản chuyên môn) — Peptic Ulcer Disease, cập nhật 01/2025 (dùng cho mô phỏng)",
+      "url": "https://www.msdmanuals.com/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/peptic-ulcer-disease"
+    },
+    {
+      "ten": "MSD Manual (bản chuyên môn) — Helicobacter pylori Infection, cập nhật 05/2025 (dùng cho mô phỏng)",
+      "url": "https://www.msdmanuals.com/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/helicobacter-pylori-infection"
+    },
+    {
+      "ten": "MSD Manual (bản chuyên môn) — Overview of Acid Secretion, cập nhật 01/2025 (dùng cho mô phỏng)",
+      "url": "https://www.msdmanuals.com/professional/gastrointestinal-disorders/gastritis-and-peptic-ulcer-disease/overview-of-acid-secretion"
     }
   ],
   "da_kiem": true

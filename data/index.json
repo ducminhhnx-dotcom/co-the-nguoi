@@ -1,6 +1,6 @@
 {
   "phien_ban_cau_truc": 1,
-  "phien_ban": "0.18",
+  "phien_ban": "0.19",
   "bo_phan": [
     "nao",
     "khi-quan",
@@ -72,7 +72,8 @@
     "virus-ho-hap",
     "pho-cau-phe-nang",
     "insulin-duong-mau",
-    "xo-vua-cuc-mau-dong"
+    "xo-vua-cuc-mau-dong",
+    "loet-da-day"
   ],
   "mo_hinh": "models/co-the.json"
 }
