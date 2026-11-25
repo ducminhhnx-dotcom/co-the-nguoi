@@ -1,0 +1,40 @@
+{
+  "id": "loang-xuong",
+  "ten": "Loãng xương",
+  "ten_khac": "Osteoporosis",
+  "loai": "xuong-khop",
+  "bo_phan": [
+    "cot-song",
+    "xuong-chau",
+    "xuong-chi-tren",
+    "xuong-chi-duoi"
+  ],
+  "nguyen_nhan": "Mật độ xương giảm làm xương yếu, dễ gãy. Ở phụ nữ, mật độ xương cao nhất khoảng tuổi 30 rồi giảm dần, giảm nhanh hơn sau mãn kinh (trung bình khoảng 51 tuổi) do thiếu estrogen. Yếu tố nguy cơ: gia đình có người loãng xương (nhất là cha mẹ gãy cổ xương đùi), ăn ít canxi và vitamin D, ít vận động, người gầy nhỏ, mãn kinh sớm, hút thuốc, uống nhiều rượu, dùng lâu một số thuốc, một số bệnh (thận mạn, cường giáp, cường cận giáp, đái tháo đường, viêm khớp dạng thấp…). Gặp ở gần 20% phụ nữ và gần 5% nam giới từ 50 tuổi; khoảng một nửa phụ nữ sau mãn kinh sẽ bị gãy xương do loãng xương trong đời.",
+  "trieu_chung": [
+    "Lúc đầu không có triệu chứng; nhiều người không bao giờ thấy triệu chứng",
+    "Gãy xương khi chỉ ngã nhẹ (ví dụ ngã khi đang đứng, ngã khỏi giường), hay gặp ở cổ tay, cổ xương đùi, cột sống",
+    "Xẹp đốt sống (loại gãy hay gặp nhất, thường ở giữa và dưới lưng): phần lớn không đau; khi đau thì đau đột ngột một chỗ ở lưng, tăng khi đứng, đi; thường giảm sau khoảng 1 tuần",
+    "Xẹp nhiều đốt sống làm cột sống cong, lưng gù",
+    "Gãy cổ xương đùi là biến chứng nặng, hay làm người cao tuổi tàn tật, mất khả năng tự lo cho mình"
+  ],
+  "khi_nao_di_kham": [
+    "Gãy xương khi chỉ ngã nhẹ hoặc va chạm nhẹ: đi khám để kiểm tra loãng xương, ở bất kỳ tuổi nào",
+    "Phụ nữ từ 65 tuổi, hoặc đã mãn kinh mà có yếu tố nguy cơ: hỏi bác sĩ về đo mật độ xương (đo DXA ở cột sống và háng, không đau, mất khoảng 10–15 phút)",
+    "Đau lưng đột ngột sau một động tác nhẹ ở người lớn tuổi, thấp đi hoặc lưng gù dần: đi khám"
+  ],
+  "phong_ngua": [
+    "Ăn đủ canxi, ưu tiên từ thức ăn: sữa, sữa chua, rau xanh (như bông cải xanh), các loại hạt, cá mòi đóng hộp",
+    "Đủ vitamin D (giúp hấp thu canxi): ngũ cốc và sữa có bổ sung, cá béo",
+    "Tập vận động chịu sức nặng khoảng 30 phút mỗi ngày: đi bộ, leo cầu thang, tập tạ; bơi giúp khỏe cơ và giữ thăng bằng",
+    "Không hút thuốc, không uống nhiều rượu",
+    "Phòng ngã: nhà cửa an toàn (đủ ánh sáng, bỏ vật dễ vấp), tập sức cơ và thăng bằng"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Osteoporosis, cập nhật 07/2025",
+      "url": "https://www.msdmanuals.com/home/bone-joint-and-muscle-disorders/osteoporosis/osteoporosis"
+    }
+  ],
+  "da_kiem": true
+}

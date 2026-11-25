@@ -10,5 +10,7 @@ export const LOAI_BENH = {
   'tiet-nieu': 'Bệnh tiết niệu',
   'noi-tiet': 'Bệnh nội tiết',
   'tieu-hoa': 'Bệnh tiêu hóa',
-  'than-kinh': 'Bệnh thần kinh – cột sống'
+  'than-kinh': 'Bệnh thần kinh – cột sống',
+  'xuong-khop': 'Bệnh xương khớp',
+  'ung-thu': 'Bệnh ung thư'
 };

@@ -1,0 +1,41 @@
+{
+  "id": "ung-thu-dai-truc-trang",
+  "ten": "Ung thư đại trực tràng",
+  "ten_khac": "Colorectal cancer",
+  "loai": "ung-thu",
+  "bo_phan": [
+    "ruot-gia"
+  ],
+  "nguyen_nhan": "Ung thư ở đại tràng (ruột già) hoặc trực tràng, thường bắt đầu từ một polyp — khối nhỏ như cúc áo mọc trên lớp lót ruột — rồi lớn chậm trong nhiều năm. Là ung thư phổ biến thứ ba thế giới (khoảng 10% số ca ung thư) và gây tử vong đứng thứ hai trong các loại ung thư; năm 2022 có khoảng 1,9 triệu ca mới và hơn 900 nghìn ca tử vong. Nguy cơ tăng rõ sau 50 tuổi (bắt đầu tăng từ khoảng 40–50 tuổi). Yếu tố nguy cơ: ăn nhiều thịt đỏ, thịt chế biến sẵn, ít rau quả và chất xơ; ít vận động; thừa cân, béo phì; hút thuốc; rượu bia; tiền sử gia đình hoặc bệnh di truyền (hội chứng Lynch, đa polyp tuyến gia đình); bản thân từng có polyp hoặc ung thư đại trực tràng; viêm loét đại tràng hoặc bệnh Crohn kéo dài.",
+  "trieu_chung": [
+    "Giai đoạn đầu thường không có triệu chứng — ung thư lớn chậm",
+    "Thay đổi thói quen đại tiện: tiêu chảy hoặc táo bón kéo dài",
+    "Máu trong phân: đỏ tươi hoặc đen như hắc ín; ung thư đại tràng thường chảy máu ít, mắt thường không thấy",
+    "Đi ngoài đau, cảm giác chưa đi hết (ung thư trực tràng)",
+    "Đau quặn, đầy bụng không hết",
+    "Sụt cân không rõ lý do, mệt kéo dài; thiếu máu do mất máu kéo dài"
+  ],
+  "khi_nao_di_kham": [
+    "Đi ngoài ra máu, kể cả khi đã biết mình bị trĩ: đi khám — bác sĩ cần loại trừ ung thư (thường bằng nội soi đại tràng)",
+    "Thay đổi thói quen đại tiện, đau bụng kéo dài, sụt cân hoặc mệt không rõ lý do: đi khám sớm",
+    "Từ 45 tuổi (sớm hơn nếu gia đình có người mắc hoặc có bệnh di truyền): hỏi bác sĩ về tầm soát — xét nghiệm phân hoặc nội soi đại tràng"
+  ],
+  "phong_ngua": [
+    "Tầm soát định kỳ — cách phát hiện sớm hiệu quả nhất; polyp tìm thấy khi nội soi được cắt bỏ trước khi thành ung thư",
+    "Ăn nhiều rau quả, chất xơ; bớt thịt đỏ và thịt chế biến sẵn",
+    "Vận động đều đặn, giữ cân nặng hợp lý",
+    "Không hút thuốc; hạn chế rượu bia"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "WHO — Colorectal cancer (fact sheet), 13/02/2026",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/colorectal-cancer"
+    },
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Colorectal Cancer, cập nhật 07/2025",
+      "url": "https://www.msdmanuals.com/home/cancer/tumors-of-the-digestive-system/colorectal-cancer"
+    }
+  ],
+  "da_kiem": true
+}

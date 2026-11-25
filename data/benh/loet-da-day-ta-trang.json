@@ -1,0 +1,39 @@
+{
+  "id": "loet-da-day-ta-trang",
+  "ten": "Loét dạ dày – tá tràng",
+  "ten_khac": "Peptic ulcer disease",
+  "loai": "tieu-hoa",
+  "bo_phan": [
+    "da-day",
+    "ruot-non"
+  ],
+  "nguyen_nhan": "Vết loét tròn hoặc bầu dục ở lớp lót dạ dày hoặc tá tràng (đoạn đầu ruột non), do axit và dịch tiêu hóa ăn mòn. Loét tá tràng hay gặp nhất; loét dạ dày ít hơn, thường ở phần dưới dạ dày. Hai nguyên nhân chính: nhiễm vi khuẩn Helicobacter pylori ở dạ dày (có ở hơn 50% người loét tá tràng, 30–50% người loét dạ dày) và dùng thuốc chống viêm không steroid (nhóm thuốc giảm đau như aspirin) — dù phần lớn người dùng nhóm thuốc này không bị loét. Người hút thuốc dễ bị loét hơn, vết loét lâu lành và hay tái phát. Bệnh nặng, bỏng, chấn thương nặng có thể gây loét do stress. Hay gặp ở người trung niên nhưng có thể gặp ở mọi tuổi.",
+  "trieu_chung": [
+    "Đau vùng bụng trên, ngay dưới xương ức, kiểu cồn cào, nóng rát, âm ỉ; chỉ khoảng một nửa người bệnh có triệu chứng điển hình",
+    "Loét tá tràng: thường không đau lúc mới dậy, đau vào giữa buổi sáng, ăn vào đỡ rồi đau lại sau 2–3 giờ; hay đau về đêm",
+    "Loét dạ dày: đau không theo quy luật, ăn có khi đỡ có khi đau hơn; có thể đầy bụng, buồn nôn, nôn sau ăn",
+    "Trẻ em, người cao tuổi và người loét do thuốc giảm đau có thể không có triệu chứng",
+    "Biến chứng: chảy máu (hay gặp nhất), thủng, hẹp môn vị gây nôn; loét do H. pylori làm tăng 3–6 lần nguy cơ ung thư dạ dày về sau"
+  ],
+  "khi_nao_di_kham": [
+    "Nôn ra máu đỏ hoặc máu đen như bã cà phê, đi ngoài phân đen như hắc ín hoặc có máu, choáng, ngất: đi cấp cứu ngay",
+    "Đau bụng đột ngột, dữ dội, liên tục, lan khắp bụng (có thể lên vai), tăng khi thở sâu: đi cấp cứu ngay vì có thể thủng dạ dày",
+    "Nôn nhiều lần, nôn ra thức ăn đã ăn từ nhiều giờ trước, sụt cân: đi khám",
+    "Đau bụng trên lần đầu xuất hiện sau 60 tuổi hoặc kèm sụt cân: đi khám sớm vì ung thư dạ dày có thể gây triệu chứng giống loét",
+    "Đau bụng trên kéo dài vài tuần: đi khám (có thể cần nội soi và xét nghiệm H. pylori)"
+  ],
+  "phong_ngua": [
+    "Không tự ý dùng kéo dài thuốc giảm đau chống viêm không steroid; hỏi bác sĩ nếu cần dùng lâu",
+    "Không hút thuốc",
+    "Hạn chế rượu bia",
+    "Khi được chẩn đoán nhiễm H. pylori: điều trị đủ theo bác sĩ — diệt được vi khuẩn thì loét chỉ tái phát ở khoảng 10% người, so với 50% nếu không diệt được"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Peptic Ulcer Disease, cập nhật 09/2026",
+      "url": "https://www.msdmanuals.com/home/digestive-disorders/gastritis-and-peptic-ulcer-disease/peptic-ulcer-disease"
+    }
+  ],
+  "da_kiem": true
+}

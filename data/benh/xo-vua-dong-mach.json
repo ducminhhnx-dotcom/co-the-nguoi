@@ -1,0 +1,42 @@
+{
+  "id": "xo-vua-dong-mach",
+  "ten": "Xơ vữa động mạch",
+  "ten_khac": "Atherosclerosis",
+  "loai": "tim-mach",
+  "bo_phan": [
+    "dong-mach-chu",
+    "dong-mach-canh",
+    "dong-mach-than",
+    "tim"
+  ],
+  "nguyen_nhan": "Mảng mỡ (mảng xơ vữa) đóng trong thành các động mạch vừa và lớn, làm hẹp hoặc bít dòng máu. Quá trình bắt đầu từ những tổn thương nhỏ lặp lại ở lớp lót trong động mạch: bạch cầu chui vào thành mạch, ăn cholesterol thành tế bào bọt; tế bào cơ trơn tăng sinh, cholesterol và canxi đọng lại, ngoài phủ một lớp vỏ xơ — hay gặp ở chỗ động mạch chia nhánh. Khi mảng xơ vữa nứt vỡ, cục máu đông hình thành có thể bít mạch đột ngột — nguyên nhân chính của nhồi máu cơ tim và đột quỵ. Bệnh động mạch vành do xơ vữa là nguyên nhân tử vong hàng đầu thế giới. Yếu tố nguy cơ thay đổi được: LDL-cholesterol cao, tăng huyết áp, hút thuốc (kể cả hút thụ động), đái tháo đường, béo bụng, ít vận động, ăn mặn, nhiều mỡ, nhiều đường, ít rau quả, uống nhiều rượu, căng thẳng kéo dài. Không thay đổi được: tuổi cao, nam giới, tiền sử gia đình (người thân nam bị nhồi máu cơ tim hoặc đột quỵ trước 55 tuổi, nữ trước 65 tuổi).",
+  "trieu_chung": [
+    "Thường không có triệu chứng cho tới khi động mạch hẹp nhiều hoặc bị bít đột ngột",
+    "Động mạch vành hẹp: đau thắt ngực khi gắng sức, đỡ sau vài phút nghỉ",
+    "Động mạch chân hẹp: chuột rút, đau bắp chân khi đi bộ, nghỉ thì đỡ",
+    "Động mạch thận hẹp: có thể gây suy thận hoặc tăng huyết áp nặng",
+    "Bít đột ngột: nhồi máu cơ tim (đau ngực, khó thở, vã mồ hôi), đột quỵ (tê, yếu một bên, nói khó, lú lẫn), hoặc một chân đau dữ dội, lạnh, tê, đổi màu"
+  ],
+  "khi_nao_di_kham": [
+    "Đau ngực, khó thở, vã mồ hôi; hoặc đột ngột tê, yếu một bên người, nói khó: gọi cấp cứu ngay",
+    "Một chân hoặc bàn chân đột ngột đau dữ dội, lạnh, tê, tím tái: đi cấp cứu ngay",
+    "Đau ngực khi gắng sức, đau bắp chân khi đi bộ: đi khám",
+    "Có nhiều yếu tố nguy cơ (hút thuốc, tăng huyết áp, đái tháo đường, mỡ máu cao, gia đình có người mắc sớm): khám định kỳ để kiểm tra huyết áp, mỡ máu, đường máu"
+  ],
+  "phong_ngua": [
+    "Bỏ thuốc lá — lợi ích bắt đầu ngay và tăng dần theo thời gian",
+    "Ăn uống lành mạnh: ít nhất 200 g trái cây và 200 g rau mỗi ngày; nhiều chất xơ; khoảng 30 g hạt không muối mỗi ngày; cá 1–2 lần mỗi tuần; bớt thịt đỏ, thịt chế biến sẵn, chất béo bão hòa, muối và đường",
+    "Vận động đều đặn, kể cả ở mức vừa phải",
+    "Giữ cân nặng hợp lý",
+    "Kiểm soát LDL-cholesterol, huyết áp và đường máu",
+    "Hạn chế rượu bia (không có mức uống nào hoàn toàn không làm tăng nguy cơ)"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Atherosclerosis, cập nhật 09/2026",
+      "url": "https://www.msdmanuals.com/home/heart-and-blood-vessel-disorders/atherosclerosis/atherosclerosis"
+    }
+  ],
+  "da_kiem": true
+}

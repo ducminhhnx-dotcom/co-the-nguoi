@@ -1,0 +1,45 @@
+{
+  "id": "dot-quy",
+  "ten": "Đột quỵ (tai biến mạch máu não)",
+  "ten_khac": "Stroke",
+  "loai": "tim-mach",
+  "bo_phan": [
+    "nao",
+    "dong-mach-canh"
+  ],
+  "nguyen_nhan": "Một động mạch nuôi não bị tắc hoặc vỡ, làm mô não thiếu máu và chết. Khoảng 80% là đột quỵ thiếu máu (động mạch bị tắc, thường do cục máu đông); khoảng 20% là đột quỵ xuất huyết (mạch máu vỡ, chảy máu trong hoặc quanh não). Xơ vữa động mạch, nhất là hẹp động mạch cảnh ở cổ, là nguyên nhân hay gặp của đột quỵ thiếu máu; cục máu đông hình thành trong tim (như khi rung nhĩ, sau nhồi máu cơ tim) cũng có thể trôi lên não. Yếu tố nguy cơ thay đổi được: tăng huyết áp (đặc biệt quan trọng), cholesterol cao, đái tháo đường, hút thuốc, béo bụng, ngưng thở khi ngủ, uống nhiều rượu, ít vận động, ăn uống không lành mạnh, căng thẳng. Không thay đổi được: tuổi cao, đã từng đột quỵ, tiền sử gia đình, nam giới.",
+  "trieu_chung": [
+    "Triệu chứng xuất hiện đột ngột và nặng lên nhanh",
+    "Đột ngột yếu, liệt hoặc tê một bên mặt, tay, chân",
+    "Đột ngột nói khó, nói lắp, khó hiểu lời người khác; lú lẫn",
+    "Đột ngột nhìn mờ, mất thị lực (nhất là một mắt) hoặc nhìn đôi",
+    "Đột ngột chóng mặt, mất thăng bằng, đi lại khó",
+    "Đau đầu dữ dội đột ngột không rõ nguyên nhân; xuất huyết não có thể kèm buồn nôn, nôn, mất ý thức",
+    "Cơn thiếu máu não thoáng qua: triệu chứng như trên nhưng hết trong vài phút — là dấu hiệu báo trước đột quỵ"
+  ],
+  "khi_nao_di_kham": [
+    "Nhớ dấu hiệu B.E. F.A.S.T. (tiếng Anh): Balance — mất thăng bằng; Eyes — mắt đột ngột nhìn kém; Face — mặt méo một bên khi cười; Arms — giơ hai tay thì một tay rơi xuống; Speech — nói ngọng, nói lạ; Time — gọi cấp cứu ngay",
+    "Có bất kỳ dấu hiệu nào ở trên: gọi cấp cứu ngay, kể cả khi triệu chứng đã tự hết",
+    "Ghi nhớ giờ bắt đầu có triệu chứng để báo cho nhân viên y tế",
+    "Không tự lái xe đến bệnh viện, cũng không để người nhà chở — gọi xe cấp cứu",
+    "Mỗi phút đều quan trọng: điều trị càng sớm, não càng ít bị tổn thương; một số cách điều trị tốt nhất chỉ dùng được trong 3 giờ đầu"
+  ],
+  "phong_ngua": [
+    "Kiểm soát huyết áp, đường máu và cholesterol",
+    "Không hút thuốc, không dùng chất kích thích; hạn chế rượu bia",
+    "Vận động đều đặn, giảm cân nếu thừa cân",
+    "Người có rung nhĩ hoặc hẹp động mạch cảnh: điều trị và theo dõi theo hướng dẫn của bác sĩ"
+  ],
+  "mo_phong": null,
+  "nguon": [
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Overview of Stroke, cập nhật 09/2026",
+      "url": "https://www.msdmanuals.com/home/brain-spinal-cord-and-nerve-disorders/stroke/overview-of-stroke"
+    },
+    {
+      "ten": "CDC — Signs and Symptoms of Stroke, 19/05/2026",
+      "url": "https://www.cdc.gov/stroke/signs-symptoms/index.html"
+    }
+  ],
+  "da_kiem": true
+}

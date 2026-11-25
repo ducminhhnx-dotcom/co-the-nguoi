@@ -19,7 +19,8 @@
 | 0.15 | Bệnh cho bộ phận mới: đái tháo đường, suy giáp, cường giáp, trào ngược dạ dày – thực quản, sỏi mật, đau thần kinh tọa | Xong 25/11/2026 |
 | 0.16 | Chế độ tự kiểm tra: 4 dạng câu tạo tự động từ dữ liệu, bấm trên hình 3D để trả lời | Xong 25/11/2026 |
 | — | Đưa lên GitHub: kho mã `ducminhhnx-dotcom/co-the-nguoi` (công khai) và GitHub Pages | Xong 25/11/2026 |
-| Sau đó | Dây thần kinh ngoại biên, thêm bệnh (tuyến yên, thượng thận, tuyến ức…) | **Làm tiếp theo** (Minh chọn) |
+| 0.17 | Bệnh đợt 3: đột quỵ, xơ vữa động mạch, loãng xương, loét dạ dày – tá tràng, ung thư đại trực tràng | Xong 25/11/2026 |
+| Sau đó | Mô phỏng cho bệnh (insulin và đường máu; xơ vữa và cục máu đông), dây thần kinh ngoại biên, thêm bệnh | **Làm tiếp theo** (Minh chọn) |
 
 ## Việc còn lại (không theo bản)
 

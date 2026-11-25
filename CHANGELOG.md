@@ -436,3 +436,18 @@
 
 **Còn dở**
 - `AGENTS.md` là bản sao cũ của bản thiết kế (bản 0.3, viết cho Codex), chưa đồng bộ với CLAUDE.md.
+
+## Bản 0.17 — 25/11/2026 — Bệnh đợt 3
+
+**Đã làm**
+- 5 bệnh mới, đều `da_kiem: true`, không ghi thuốc, liều hay phác đồ:
+  - `dot-quy` (não, động mạch cảnh) — MSD Manual, CDC. Có dấu hiệu B.E. F.A.S.T., ghi giờ khởi phát, không tự lái xe, mốc 3 giờ.
+  - `xo-vua-dong-mach` (động mạch chủ, động mạch cảnh, động mạch thận, tim) — MSD Manual.
+  - `loang-xuong` (cột sống, xương chậu, xương chi trên, xương chi dưới) — MSD Manual. Lượng canxi không ghi theo mg (bộ kiểm sẽ nhầm là liều thuốc); chỉ liệt kê thực phẩm giàu canxi.
+  - `loet-da-day-ta-trang` (dạ dày, ruột non) — MSD Manual. Nhóm thuốc giảm đau chống viêm không steroid chỉ được nêu như một nguyên nhân, không nêu tên thuốc cụ thể.
+  - `ung-thu-dai-truc-trang` (ruột già) — WHO 13/02/2026, MSD Manual. Trang MSD về tầm soát bị chặn khi tải, nên chỉ ghi "từ 45 tuổi hỏi bác sĩ về tầm soát" như trang MSD chính nêu, không có chu kỳ cụ thể.
+- Bỏ một ý phòng ngừa đột quỵ ("khám sức khỏe định kỳ") vì ý này chỉ có trong bản tóm tắt tự động, không có trong nguyên văn trang.
+- `src/core/loai-benh.js` thêm nhãn "Bệnh xương khớp", "Bệnh ung thư".
+- `tests/kiem-tra.py` chụp thêm `benh-dot-quy.png`.
+- `data/index.json`: `phien_ban` = "0.17". Kiểm thử ĐẠT: 18 bệnh.
+- Bộ phận có bệnh gắn vào: từ 19 lên 26/39.

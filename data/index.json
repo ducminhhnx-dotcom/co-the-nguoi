@@ -1,6 +1,6 @@
 {
   "phien_ban_cau_truc": 1,
-  "phien_ban": "0.16",
+  "phien_ban": "0.17",
   "bo_phan": [
     "nao",
     "khi-quan",
@@ -55,7 +55,12 @@
     "cuong-giap",
     "trao-nguoc-da-day-thuc-quan",
     "soi-mat",
-    "dau-than-kinh-toa"
+    "dau-than-kinh-toa",
+    "dot-quy",
+    "xo-vua-dong-mach",
+    "loang-xuong",
+    "loet-da-day-ta-trang",
+    "ung-thu-dai-truc-trang"
   ],
   "mo_phong": [
     "trao-doi-khi",
