@@ -99,7 +99,7 @@ export async function kiemDuLieu(doc, coFile) {
     try { m = (await import(`../src/sims/${id}.js`)).default; } catch (e) { L(`src/sims/${id}.js`, `không nạp được: ${e.message}`); continue; }
     const f = `src/sims/${id}.js`;
     if (m.id !== id) L(f, `"id" (${m.id}) không khớp tên file`);
-    if (m.nhom && !['van-hanh', 'nhiem-trung'].includes(m.nhom)) L(f, `"nhom" phải là "van-hanh" hoặc "nhiem-trung"`);
+    if (m.nhom && !['van-hanh', 'benh', 'nhiem-trung'].includes(m.nhom)) L(f, `"nhom" phải là "van-hanh", "benh" hoặc "nhiem-trung"`);
     if (m.vi_tri && !idx.bo_phan.includes(m.vi_tri)) L(f, `vi_tri "${m.vi_tri}" không phải bộ phận có trong data/index.json`);
     if (m.diem && moHinh?.diem && !(m.diem in moHinh.diem)) L(f, `điểm "${m.diem}" không có trong ${idx.mo_hinh}`);
     if (!Array.isArray(m.giai_doan) || !m.giai_doan.length) L(f, 'thiếu "giai_doan"');

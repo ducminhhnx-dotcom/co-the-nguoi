@@ -76,7 +76,7 @@ def main():
     if lc: so_loi += len(lc)
     if 'id="loi" class="loi" hidden' not in out: print("Khung báo lỗi đang hiện."); so_loi += 1
     if 'data-san-sang="co"' not in out: print("Trang chưa dựng xong (chưa có cờ sẵn sàng)."); so_loi += 1
-    for can in ["Bắt đầu từ đâu?", "Kính hiển vi", "Cơ thể vận hành", "Chống nhiễm trùng", "id=\"song-tho\"", "Tự kiểm tra", "data-he=\"tuan-hoan\"", "<canvas"]:
+    for can in ["Bắt đầu từ đâu?", "Kính hiển vi", "Cơ thể vận hành", "Chống nhiễm trùng", "Bệnh diễn tiến", "id=\"song-tho\"", "Tự kiểm tra", "data-he=\"tuan-hoan\"", "<canvas"]:
         if can not in out: print("Thiếu:", can); so_loi += 1
     if not lc: print("Không có lỗi console.")
     # 3. chụp màn hình (?chup: vòng lặp chạy bằng hẹn giờ vì Chrome ngầm không gọi requestAnimationFrame khi chụp).
@@ -103,7 +103,10 @@ def main():
                                   ("dien-thoai-benh-trao-nguoc", 520, 844, "tests/khung-dien-thoai.html?chup#benh/trao-nguoc-da-day-thuc-quan", 390),
                                   ("tu-kiem-tra", 1280, 900, "index.html?chup#tu-kiem-tra", None),
                                   ("dien-thoai-tu-kiem-tra", 520, 844, "tests/khung-dien-thoai.html?chup#tu-kiem-tra", 390),
-                                  ("benh-dot-quy", 1280, 900, "index.html?chup#benh/dot-quy", None)]:
+                                  ("benh-dot-quy", 1280, 900, "index.html?chup#benh/dot-quy", None),
+                                  ("mo-phong-insulin", 1280, 900, "index.html?chup&tua=13#mo-phong/insulin-duong-mau", None),
+                                  ("mo-phong-xo-vua", 1280, 900, "index.html?chup&tua=15#mo-phong/xo-vua-cuc-mau-dong", None),
+                                  ("dien-thoai-xo-vua", 520, 844, "tests/khung-dien-thoai.html?chup&tua=9#mo-phong/xo-vua-cuc-mau-dong", 390)]:
         p = os.path.join(GOC, "tests", "anh", f"{ten}.png")
         if os.path.exists(p): os.remove(p)
         chrome(f"--screenshot={p}", f"--window-size={w},{h}", "--timeout=90000", f"{url}/{trang}", cho=0)

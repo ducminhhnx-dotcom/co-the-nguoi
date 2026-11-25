@@ -30,7 +30,7 @@
     "Không hút thuốc; hạn chế rượu bia",
     "Đái tháo đường týp 1 hiện chưa có cách phòng"
   ],
-  "mo_phong": null,
+  "mo_phong": "insulin-duong-mau",
   "nguon": [
     {
       "ten": "WHO — Diabetes (fact sheet), 11/11/2026",
@@ -43,6 +43,10 @@
     {
       "ten": "MSD Manual (bản cho người đọc phổ thông) — Type 1 Diabetes Mellitus, cập nhật 07/2026",
       "url": "https://www.msdmanuals.com/home/hormonal-and-metabolic-disorders/diabetes-mellitus-dm-and-disorders-of-blood-sugar-metabolism/diabetes-mellitus-dm"
+    },
+    {
+      "ten": "OpenStax Anatomy and Physiology 2e, mục 17.9 The Endocrine Pancreas (dùng cho mô phỏng)",
+      "url": "https://openstax.org/books/anatomy-and-physiology-2e/pages/17-9-the-endocrine-pancreas"
     }
   ],
   "da_kiem": true

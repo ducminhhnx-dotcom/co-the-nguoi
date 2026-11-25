@@ -20,7 +20,8 @@
 | 0.16 | Chế độ tự kiểm tra: 4 dạng câu tạo tự động từ dữ liệu, bấm trên hình 3D để trả lời | Xong 25/11/2026 |
 | — | Đưa lên GitHub: kho mã `ducminhhnx-dotcom/co-the-nguoi` (công khai) và GitHub Pages | Xong 25/11/2026 |
 | 0.17 | Bệnh đợt 3: đột quỵ, xơ vữa động mạch, loãng xương, loét dạ dày – tá tràng, ung thư đại trực tràng | Xong 25/11/2026 |
-| Sau đó | Mô phỏng cho bệnh (insulin và đường máu; xơ vữa và cục máu đông), dây thần kinh ngoại biên, thêm bệnh | **Làm tiếp theo** (Minh chọn) |
+| 0.18 | Mô phỏng bệnh: insulin và đường máu (bình thường, týp 1, týp 2); xơ vữa và cục máu đông; nhóm nút "Bệnh diễn tiến" | Xong 25/11/2026 |
+| Sau đó | Thêm bệnh (lách, cơ, thượng thận, tuyến ức…), dây thần kinh ngoại biên | **Làm tiếp theo** (Minh chọn) |
 
 ## Việc còn lại (không theo bản)
 
@@ -35,7 +36,7 @@
 
 - **Bộ phận:** thêm `data/bo-phan/<id>.json`, ghi `id` vào `data/index.json`. Muốn bấm được trên hình 3D thì thêm một dòng vào bảng `CHON` trong `tools/tao-mo-hinh.py` (id → mẫu tên tiếng Anh của BodyParts3D, cỡ ô giảm lưới) rồi chạy lại công cụ.
 - **Bệnh:** thêm `data/benh/<id>.json`, ghi `id` vào `data/index.json`. Bộ phận trong `bo_phan` tự hiện bệnh này. Trường `loai` phải có nhãn trong `src/core/loai-benh.js` (loại mới thì thêm một dòng ở đó).
-- **Mô phỏng:** thêm `src/sims/<id>.js` theo giao ước ghi ở đầu `src/core/kinh-hien-vi.js`, ghi `id` vào `data/index.json`. Trường `nhom`: `van-hanh` (Cơ thể vận hành) hoặc `nhiem-trung` (Chống nhiễm trùng, mặc định). Giai đoạn nào ghi `bo_phan` thì lõi tự làm sáng bộ phận đó trên hình 3D.
+- **Mô phỏng:** thêm `src/sims/<id>.js` theo giao ước ghi ở đầu `src/core/kinh-hien-vi.js`, ghi `id` vào `data/index.json`. Trường `nhom`: `van-hanh` (Cơ thể vận hành), `benh` (Bệnh diễn tiến) hoặc `nhiem-trung` (Chống nhiễm trùng, mặc định). Giai đoạn nào ghi `bo_phan` thì lõi tự làm sáng bộ phận đó trên hình 3D.
 - Mở thẳng một mô phỏng: `index.html#mo-phong/<id>`. Muốn kiểm thử chụp ảnh một giai đoạn thì thêm vào danh sách ảnh trong `tests/kiem-tra.py` đường dẫn `index.html?chup&tua=<giây>#mo-phong/<id>`. Muốn có điểm đánh dấu trên hình 3D thì thêm khóa vào `diem` trong `tools/tao-mo-hinh.py`.
 - Sau đó chạy `py tests/kiem-tra.py` (kiểm dữ liệu, lỗi console, chụp màn hình).
 

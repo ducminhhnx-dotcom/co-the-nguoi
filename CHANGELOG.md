@@ -451,3 +451,22 @@
 - `tests/kiem-tra.py` chụp thêm `benh-dot-quy.png`.
 - `data/index.json`: `phien_ban` = "0.17". Kiểm thử ĐẠT: 18 bệnh.
 - Bộ phận có bệnh gắn vào: từ 19 lên 26/39.
+
+## Bản 0.18 — 25/11/2026 — Mô phỏng bệnh
+
+**Đã làm**
+- Mô phỏng `src/sims/insulin-duong-mau.js` (nút "Insulin, đường máu"): chạy liền ba kịch bản sau bữa ăn, kèm đồ thị đường máu minh họa có vùng lúc đói bình thường.
+  - Người bình thường: tụy tiết insulin, insulin "mở cửa" tế bào cơ, mỡ, glucose đi vào, đường máu trở về bình thường.
+  - Đái tháo đường týp 1: tế bào beta bị hủy, không có insulin, glucose ứ trong máu.
+  - Đái tháo đường týp 2: có insulin nhưng cửa mở kém (kháng insulin), đường máu vẫn cao.
+  - Nguồn: OpenStax 17.9 (tế bào beta 75%, alpha 20%; đường máu lúc đói 70–100 mg/dL); MSD Manual (týp 1 khoảng 5–10%, týp 2 khoảng 90–95%; ngưỡng chẩn đoán 126 mg/dL).
+  - Gắn với bệnh Đái tháo đường.
+- Mô phỏng `src/sims/xo-vua-cuc-mau-dong.js` (nút "Xơ vữa, cục máu đông"): đoạn động mạch cắt dọc.
+  - Diễn tiến: LDL thấm vào thành mạch, bạch cầu thành tế bào bọt; mảng xơ vữa có vỏ xơ, canxi, làm hẹp khoảng nửa lòng mạch; mảng nứt, tiểu cầu tụ lại, cục máu đông bít phần còn lại; hồng cầu dừng trước chỗ tắc, mô phía sau chuyển sang "thiếu máu".
+  - Nguồn: MSD Manual (Atherosclerosis, Acute Coronary Syndromes), CDC (Stroke).
+  - Gắn với Nhồi máu cơ tim, Đột quỵ, Xơ vữa động mạch.
+  - Lần chạy đầu, mảng xơ vữa tự bít kín mạch và che mất cục máu đông. Đã sửa: mảng tối đa khoảng nửa lòng mạch, cục máu đông mới là thứ bít mạch, đúng như nguồn mô tả.
+- Nhóm nút thứ ba "Bệnh diễn tiến" (`nhom: "benh"`) trong khung Kính hiển vi. Sửa `src/core/kinh-hien-vi.js` (thêm một dòng vào bảng nhóm) và `tools/kiem-du-lieu.js` (chấp nhận nhóm mới). CLAUDE.md mục 2b.3 ghi thêm nhóm này.
+- Bệnh Đái tháo đường và Nhồi máu cơ tim thêm nguồn dùng cho mô phỏng.
+- `tests/kiem-tra.py` chụp thêm `mo-phong-insulin.png`, `mo-phong-xo-vua.png`, `dien-thoai-xo-vua.png`; kiểm có chữ "Bệnh diễn tiến".
+- `data/index.json`: `phien_ban` = "0.18". Kiểm thử ĐẠT: 10 mô phỏng.

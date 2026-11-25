@@ -29,7 +29,7 @@
     "Giữ cân nặng hợp lý, giảm căng thẳng",
     "Người đã từng bị: hỏi bác sĩ về chương trình phục hồi chức năng tim"
   ],
-  "mo_phong": null,
+  "mo_phong": "xo-vua-cuc-mau-dong",
   "nguon": [
     {
       "ten": "MSD Manual (bản cho người đọc phổ thông) — Acute Coronary Syndromes (Unstable Angina and Heart Attack), cập nhật 11/2026",
@@ -38,6 +38,10 @@
     {
       "ten": "CDC — About Heart Attack Symptoms, Risk, and Recovery, 24/10/2024",
       "url": "https://www.cdc.gov/heart-disease/about/heart-attack.html"
+    },
+    {
+      "ten": "MSD Manual (bản cho người đọc phổ thông) — Atherosclerosis, cập nhật 09/2026 (dùng cho mô phỏng)",
+      "url": "https://www.msdmanuals.com/home/heart-and-blood-vessel-disorders/atherosclerosis/atherosclerosis"
     }
   ],
   "da_kiem": true

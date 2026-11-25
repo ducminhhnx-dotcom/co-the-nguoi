@@ -57,7 +57,7 @@ Bản mẫu: phương án D trên canvas "3 phong cách cho mô hình cơ thể 
    - Tab Cơ bản: các ô số liệu xếp lưới 2 cột, một đoạn mô tả, các nút "Liên quan" dạng viên thuốc bấm sang bộ phận hoặc bệnh khác.
    - Dòng nguồn và trạng thái kiểm chứng luôn ở cuối bảng.
 3. **Khung "Kính hiển vi"** nằm dưới bảng thông tin (đổi từ "Cơ thể chống nhiễm trùng", Minh duyệt 25/11/2026):
-   - Hai hàng nút theo trường `nhom` của mô-đun: "Cơ thể vận hành" (`van-hanh`, ví dụ Trao đổi khí) và "Chống nhiễm trùng" (`nhiem-trung`, mặc định: Vi khuẩn / Virus cúm / Phế cầu, sau này thêm loại khác).
+   - Các hàng nút theo trường `nhom` của mô-đun: "Cơ thể vận hành" (`van-hanh`, ví dụ Trao đổi khí), "Bệnh diễn tiến" (`benh`, thêm ở bản 0.18, ví dụ Xơ vữa, cục máu đông) và "Chống nhiễm trùng" (`nhiem-trung`, mặc định: Vi khuẩn / Virus cúm / Phế cầu, sau này thêm loại khác).
    - Hình kính hiển vi chạy mô phỏng.
    - Danh sách các bước: bước đang diễn ra in đậm, kèm một dòng "Thực tế: …" về thời gian thật.
 3b. **Chế độ tự kiểm tra** (Minh duyệt 25/11/2026):
@@ -194,7 +194,8 @@ export default {
 | 0.16 | Chế độ tự kiểm tra: 4 dạng câu tạo tự động từ dữ liệu, bấm trên hình 3D để trả lời | Xong 25/11/2026 |
 | — | Đưa lên GitHub: kho mã `ducminhhnx-dotcom/co-the-nguoi` (công khai) và GitHub Pages | Xong 25/11/2026 |
 | 0.17 | Bệnh đợt 3: đột quỵ, xơ vữa động mạch, loãng xương, loét dạ dày – tá tràng, ung thư đại trực tràng | Xong 25/11/2026 |
-| Sau đó | Mô phỏng cho bệnh (insulin và đường máu; xơ vữa và cục máu đông), dây thần kinh ngoại biên, thêm bệnh | **Làm tiếp theo** (Minh chọn) |
+| 0.18 | Mô phỏng bệnh: insulin và đường máu (bình thường, týp 1, týp 2); xơ vữa và cục máu đông; nhóm nút "Bệnh diễn tiến" | Xong 25/11/2026 |
+| Sau đó | Thêm bệnh (lách, cơ, thượng thận, tuyến ức…), dây thần kinh ngoại biên | **Làm tiếp theo** (Minh chọn) |
 
 ---
 

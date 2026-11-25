@@ -1,12 +1,12 @@
 // Khung "Kính hiển vi": chạy các mô-đun trong src/sims/, chia hai nhóm nút theo trường "nhom":
-// "van-hanh" (Cơ thể vận hành) hoặc "nhiem-trung" (Chống nhiễm trùng, mặc định).
+// "van-hanh" (Cơ thể vận hành), "benh" (Bệnh diễn tiến) hoặc "nhiem-trung" (Chống nhiễm trùng, mặc định).
 // Giao ước mô-đun: { id, ten, nut, nhom, vi_tri, diem, giai_doan:[{t, mo_ta, thuc_te, bo_phan?, cuoi?}], chu_giai:[{mau, ten}],
 //   don_gian_hoa, khoi_tao(canvas), cap_nhat(dt), ve(ctx), xong }.
 // Trước khoi_tao, lõi gán sim.W, sim.H (kích thước khung, px CSS); ctx đã được nhân tỷ lệ màn hình.
 
 const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
 
-const NHOM = [['van-hanh', 'Cơ thể vận hành'], ['nhiem-trung', 'Chống nhiễm trùng']];
+const NHOM = [['van-hanh', 'Cơ thể vận hành'], ['benh', 'Bệnh diễn tiến'], ['nhiem-trung', 'Chống nhiễm trùng']];
 
 export function taoKinhHienVi({ khung, db, khiBatDau, khiDung, khiDoiGiaiDoan = () => {} }) {
   khung.innerHTML = `
